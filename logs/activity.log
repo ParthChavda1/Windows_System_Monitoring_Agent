@@ -1,0 +1,300 @@
+2026-01-28 12:38:52,406 | PROCESS ENUMERATED | {'pid': 0, 'ppid': 0, 'name': 'System Idle Process', 'path': None} 
+2026-01-28 12:38:52,413 | PROCESS ENUMERATED | {'pid': 4, 'ppid': 0, 'name': 'System', 'path': ''} 
+2026-01-28 12:38:52,421 | PROCESS ENUMERATED | {'pid': 188, 'ppid': 4, 'name': '', 'path': ''} 
+2026-01-28 12:38:52,428 | PROCESS ENUMERATED | {'pid': 232, 'ppid': 4, 'name': 'Registry', 'path': 'Registry'} 
+2026-01-28 12:38:52,435 | PROCESS ENUMERATED | {'pid': 584, 'ppid': 5560, 'name': 'Dell.TechHub.DataManager.SubAgent.exe', 'path': 'C:\\Program Files\\Dell\\DTP\\DataManagerSubAgent\\Dell.TechHub.DataManager.SubAgent.exe'} 
+2026-01-28 12:38:52,442 | PROCESS ENUMERATED | {'pid': 760, 'ppid': 4, 'name': 'smss.exe', 'path': 'C:\\Windows\\System32\\smss.exe'} 
+2026-01-28 12:38:52,451 | PROCESS ENUMERATED | {'pid': 1140, 'ppid': 2456, 'name': 'taskhostw.exe', 'path': 'C:\\Windows\\System32\\taskhostw.exe'} 
+2026-01-28 12:38:52,459 | PROCESS ENUMERATED | {'pid': 1152, 'ppid': 960, 'name': 'csrss.exe', 'path': 'C:\\Windows\\System32\\csrss.exe'} 
+2026-01-28 12:38:52,469 | PROCESS ENUMERATED | {'pid': 1304, 'ppid': 960, 'name': 'wininit.exe', 'path': 'C:\\Windows\\System32\\wininit.exe'} 
+2026-01-28 12:38:52,477 | PROCESS ENUMERATED | {'pid': 1312, 'ppid': 1296, 'name': 'csrss.exe', 'path': 'C:\\Windows\\System32\\csrss.exe'} 
+2026-01-28 12:38:52,485 | PROCESS ENUMERATED | {'pid': 1384, 'ppid': 1304, 'name': 'services.exe', 'path': 'C:\\Windows\\System32\\services.exe'} 
+2026-01-28 12:38:52,496 | PROCESS ENUMERATED | {'pid': 1392, 'ppid': 1304, 'name': 'LsaIso.exe', 'path': 'C:\\Windows\\System32\\LsaIso.exe'} 
+2026-01-28 12:38:52,506 | PROCESS ENUMERATED | {'pid': 1416, 'ppid': 1304, 'name': 'lsass.exe', 'path': 'C:\\Windows\\System32\\lsass.exe'} 
+2026-01-28 12:38:52,516 | PROCESS ENUMERATED | {'pid': 1440, 'ppid': 11036, 'name': 'NVIDIA Web Helper.exe', 'path': 'C:\\Program Files (x86)\\NVIDIA Corporation\\NvNode\\NVIDIA Web Helper.exe'} 
+2026-01-28 12:38:52,525 | PROCESS ENUMERATED | {'pid': 1536, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,533 | PROCESS ENUMERATED | {'pid': 1556, 'ppid': 1304, 'name': 'fontdrvhost.exe', 'path': 'C:\\Windows\\System32\\fontdrvhost.exe'} 
+2026-01-28 12:38:52,540 | PROCESS ENUMERATED | {'pid': 1608, 'ppid': 1384, 'name': 'WUDFHost.exe', 'path': 'C:\\Windows\\System32\\WUDFHost.exe'} 
+2026-01-28 12:38:52,547 | PROCESS ENUMERATED | {'pid': 1676, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,553 | PROCESS ENUMERATED | {'pid': 1692, 'ppid': 11612, 'name': 'Copilot.exe', 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.Copilot_1.25121.73.0_x64__8wekyb3d8bbwe\\Copilot.exe'} 
+2026-01-28 12:38:52,560 | PROCESS ENUMERATED | {'pid': 1736, 'ppid': 1384, 'name': 'WUDFHost.exe', 'path': 'C:\\Windows\\System32\\WUDFHost.exe'} 
+2026-01-28 12:38:52,567 | PROCESS ENUMERATED | {'pid': 1828, 'ppid': 1296, 'name': 'winlogon.exe', 'path': 'C:\\Windows\\System32\\winlogon.exe'} 
+2026-01-28 12:38:52,574 | PROCESS ENUMERATED | {'pid': 1836, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,580 | PROCESS ENUMERATED | {'pid': 1908, 'ppid': 1828, 'name': 'fontdrvhost.exe', 'path': 'C:\\Windows\\System32\\fontdrvhost.exe'} 
+2026-01-28 12:38:52,587 | PROCESS ENUMERATED | {'pid': 1928, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,593 | PROCESS ENUMERATED | {'pid': 1960, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,601 | PROCESS ENUMERATED | {'pid': 1972, 'ppid': 1828, 'name': 'dwm.exe', 'path': 'C:\\Windows\\System32\\dwm.exe'} 
+2026-01-28 12:38:52,609 | PROCESS ENUMERATED | {'pid': 2068, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,617 | PROCESS ENUMERATED | {'pid': 2076, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,624 | PROCESS ENUMERATED | {'pid': 2084, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,631 | PROCESS ENUMERATED | {'pid': 2092, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,638 | PROCESS ENUMERATED | {'pid': 2104, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,644 | PROCESS ENUMERATED | {'pid': 2116, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,652 | PROCESS ENUMERATED | {'pid': 2148, 'ppid': 8488, 'name': 'Code.exe', 'path': 'D:\\Microsoft VS Code\\Code.exe'} 
+2026-01-28 12:38:52,659 | PROCESS ENUMERATED | {'pid': 2204, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,669 | PROCESS ENUMERATED | {'pid': 2316, 'ppid': 9120, 'name': 'git.exe', 'path': 'C:\\Program Files\\Git\\mingw64\\libexec\\git-core\\git.exe'} 
+2026-01-28 12:38:52,677 | PROCESS ENUMERATED | {'pid': 2324, 'ppid': 1384, 'name': 'spoolsv.exe', 'path': 'C:\\Windows\\System32\\spoolsv.exe'} 
+2026-01-28 12:38:52,683 | PROCESS ENUMERATED | {'pid': 2356, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,690 | PROCESS ENUMERATED | {'pid': 2384, 'ppid': 5560, 'name': 'Dell.CoreServices.Client.exe', 'path': 'C:\\Program Files\\Dell\\TechHub\\Dell.CoreServices.Client.exe'} 
+2026-01-28 12:38:52,697 | PROCESS ENUMERATED | {'pid': 2408, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,703 | PROCESS ENUMERATED | {'pid': 2424, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,711 | PROCESS ENUMERATED | {'pid': 2456, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,718 | PROCESS ENUMERATED | {'pid': 2504, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,725 | PROCESS ENUMERATED | {'pid': 2516, 'ppid': 11612, 'name': 'WhatsApp.Root.exe', 'path': 'D:\\WindowsApps\\5319275A.WhatsAppDesktop_2.2587.9.0_x64__cv1g1gvanyjgm\\WhatsApp.Root.exe'} 
+2026-01-28 12:38:52,732 | PROCESS ENUMERATED | {'pid': 2596, 'ppid': 1384, 'name': 'IntelCpHDCPSvc.exe', 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_cbfaa9cd064ee779\\IntelCpHDCPSvc.exe'} 
+2026-01-28 12:38:52,738 | PROCESS ENUMERATED | {'pid': 2620, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,745 | PROCESS ENUMERATED | {'pid': 2656, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,752 | PROCESS ENUMERATED | {'pid': 2700, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,758 | PROCESS ENUMERATED | {'pid': 2712, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,765 | PROCESS ENUMERATED | {'pid': 2716, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,772 | PROCESS ENUMERATED | {'pid': 2736, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,780 | PROCESS ENUMERATED | {'pid': 2800, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:52,787 | PROCESS ENUMERATED | {'pid': 2812, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,794 | PROCESS ENUMERATED | {'pid': 2996, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,802 | PROCESS ENUMERATED | {'pid': 3172, 'ppid': 2456, 'name': 'helperservice.exe', 'path': 'C:\\Program Files\\Softdeluxe\\Free Download Manager\\helperservice.exe'} 
+2026-01-28 12:38:52,811 | PROCESS ENUMERATED | {'pid': 3212, 'ppid': 4, 'name': 'MemCompression', 'path': 'MemCompression'} 
+2026-01-28 12:38:52,821 | PROCESS ENUMERATED | {'pid': 3388, 'ppid': 11312, 'name': 'Code.exe', 'path': 'D:\\Microsoft VS Code\\Code.exe'} 
+2026-01-28 12:38:52,830 | PROCESS ENUMERATED | {'pid': 3456, 'ppid': 18312, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'} 
+2026-01-28 12:38:52,840 | PROCESS ENUMERATED | {'pid': 3504, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,852 | PROCESS ENUMERATED | {'pid': 3512, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,862 | PROCESS ENUMERATED | {'pid': 3556, 'ppid': 3172, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'} 
+2026-01-28 12:38:52,871 | PROCESS ENUMERATED | {'pid': 3560, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,879 | PROCESS ENUMERATED | {'pid': 3604, 'ppid': 1536, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'} 
+2026-01-28 12:38:52,889 | PROCESS ENUMERATED | {'pid': 3644, 'ppid': 1384, 'name': 'NVDisplay.Container.exe', 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\nvdm.inf_amd64_ab62246c65b5d607\\Display.NvContainer\\NVDisplay.Container.exe'} 
+2026-01-28 12:38:52,897 | PROCESS ENUMERATED | {'pid': 3760, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,907 | PROCESS ENUMERATED | {'pid': 3768, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,918 | PROCESS ENUMERATED | {'pid': 3780, 'ppid': 1384, 'name': 'WUDFHost.exe', 'path': 'C:\\Windows\\System32\\WUDFHost.exe'} 
+2026-01-28 12:38:52,929 | PROCESS ENUMERATED | {'pid': 3944, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,938 | PROCESS ENUMERATED | {'pid': 4008, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,945 | PROCESS ENUMERATED | {'pid': 4016, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,953 | PROCESS ENUMERATED | {'pid': 4024, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,961 | PROCESS ENUMERATED | {'pid': 4184, 'ppid': 18496, 'name': 'awscns.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\NhNotifSys\\awsc\\awscns.exe'} 
+2026-01-28 12:38:52,970 | PROCESS ENUMERATED | {'pid': 4192, 'ppid': 1384, 'name': 'igfxCUIServiceN.exe', 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\cui_dch.inf_amd64_f9a50a60f9a51394\\igfxCUIServiceN.exe'} 
+2026-01-28 12:38:52,979 | PROCESS ENUMERATED | {'pid': 4232, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,987 | PROCESS ENUMERATED | {'pid': 4256, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:52,995 | PROCESS ENUMERATED | {'pid': 4264, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,005 | PROCESS ENUMERATED | {'pid': 4300, 'ppid': 1384, 'name': 'DellSupportAssistRemedationService.exe', 'path': 'C:\\Program Files\\Dell\\SARemediation\\agent\\DellSupportAssistRemedationService.exe'} 
+2026-01-28 12:38:53,013 | PROCESS ENUMERATED | {'pid': 4412, 'ppid': 1536, 'name': 'UserOOBEBroker.exe', 'path': 'C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe'} 
+2026-01-28 12:38:53,021 | PROCESS ENUMERATED | {'pid': 4464, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,029 | PROCESS ENUMERATED | {'pid': 4500, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,036 | PROCESS ENUMERATED | {'pid': 4616, 'ppid': 1384, 'name': 'SupportAssistAgent.exe', 'path': 'C:\\Program Files\\Dell\\SupportAssistAgent\\bin\\SupportAssistAgent.exe'} 
+2026-01-28 12:38:53,044 | PROCESS ENUMERATED | {'pid': 4632, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,051 | PROCESS ENUMERATED | {'pid': 4688, 'ppid': 2996, 'name': 'sihost.exe', 'path': 'C:\\Windows\\System32\\sihost.exe'} 
+2026-01-28 12:38:53,057 | PROCESS ENUMERATED | {'pid': 4828, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,064 | PROCESS ENUMERATED | {'pid': 4856, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,071 | PROCESS ENUMERATED | {'pid': 4880, 'ppid': 3644, 'name': 'NVDisplay.Container.exe', 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\nvdm.inf_amd64_ab62246c65b5d607\\Display.NvContainer\\NVDisplay.Container.exe'} 
+2026-01-28 12:38:53,077 | PROCESS ENUMERATED | {'pid': 4904, 'ppid': 1384, 'name': 'SearchIndexer.exe', 'path': 'C:\\Windows\\System32\\SearchIndexer.exe'} 
+2026-01-28 12:38:53,083 | PROCESS ENUMERATED | {'pid': 4948, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,091 | PROCESS ENUMERATED | {'pid': 5012, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,098 | PROCESS ENUMERATED | {'pid': 5056, 'ppid': 4688, 'name': 'GameLibraryAppService.exe', 'path': 'C:\\Program Files\\WindowsApps\\DellInc.AlienwareCommandCenter_5.9.2.0_x64__htrsf667h5kn2\\GameLibrary\\GameLibraryAppService.exe'} 
+2026-01-28 12:38:53,105 | PROCESS ENUMERATED | {'pid': 5160, 'ppid': 1536, 'name': 'WmiPrvSE.exe', 'path': 'C:\\Windows\\System32\\wbem\\WmiPrvSE.exe'} 
+2026-01-28 12:38:53,111 | PROCESS ENUMERATED | {'pid': 5172, 'ppid': 1536, 'name': 'WmiPrvSE.exe', 'path': 'C:\\Windows\\System32\\wbem\\WmiPrvSE.exe'} 
+2026-01-28 12:38:53,118 | PROCESS ENUMERATED | {'pid': 5192, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,126 | PROCESS ENUMERATED | {'pid': 5224, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,133 | PROCESS ENUMERATED | {'pid': 5236, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,141 | PROCESS ENUMERATED | {'pid': 5392, 'ppid': 1536, 'name': 'AppActions.exe', 'path': 'C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\AppActions.exe'} 
+2026-01-28 12:38:53,149 | PROCESS ENUMERATED | {'pid': 5424, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,157 | PROCESS ENUMERATED | {'pid': 5492, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,163 | PROCESS ENUMERATED | {'pid': 5508, 'ppid': 1384, 'name': 'AnyDesk.exe', 'path': 'C:\\Program Files (x86)\\AnyDesk\\AnyDesk.exe'} 
+2026-01-28 12:38:53,170 | PROCESS ENUMERATED | {'pid': 5532, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,177 | PROCESS ENUMERATED | {'pid': 5544, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,184 | PROCESS ENUMERATED | {'pid': 5552, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,192 | PROCESS ENUMERATED | {'pid': 5560, 'ppid': 1384, 'name': 'Dell.TechHub.exe', 'path': 'C:\\Program Files\\Dell\\TechHub\\Dell.TechHub.exe'} 
+2026-01-28 12:38:53,199 | PROCESS ENUMERATED | {'pid': 5584, 'ppid': 1384, 'name': 'OfficeClickToRun.exe', 'path': 'C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeClickToRun.exe'} 
+2026-01-28 12:38:53,207 | PROCESS ENUMERATED | {'pid': 5648, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,215 | PROCESS ENUMERATED | {'pid': 5684, 'ppid': 1384, 'name': 'jhi_service.exe', 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\dal.inf_amd64_8a3f88e34f6b8385\\jhi_service.exe'} 
+2026-01-28 12:38:53,222 | PROCESS ENUMERATED | {'pid': 5708, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:53,229 | PROCESS ENUMERATED | {'pid': 5712, 'ppid': 1384, 'name': 'nvcontainer.exe', 'path': 'C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe'} 
+2026-01-28 12:38:53,237 | PROCESS ENUMERATED | {'pid': 5736, 'ppid': 1384, 'name': 'MpDefenderCoreService.exe', 'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25110.6-0\\MpDefenderCoreService.exe'} 
+2026-01-28 12:38:53,245 | PROCESS ENUMERATED | {'pid': 5744, 'ppid': 1384, 'name': 'servicehost.exe', 'path': 'C:\\Program Files\\McAfee\\WebAdvisor\\servicehost.exe'} 
+2026-01-28 12:38:53,253 | PROCESS ENUMERATED | {'pid': 5776, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,260 | PROCESS ENUMERATED | {'pid': 5784, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,268 | PROCESS ENUMERATED | {'pid': 5800, 'ppid': 1384, 'name': 'RtkAudUService64.exe', 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_4dab0fd1fdeb2aa1\\RtkAudUService64.exe'} 
+2026-01-28 12:38:53,275 | PROCESS ENUMERATED | {'pid': 5812, 'ppid': 1384, 'name': 'sqlwriter.exe', 'path': 'C:\\Program Files\\Microsoft SQL Server\\90\\Shared\\sqlwriter.exe'} 
+2026-01-28 12:38:53,282 | PROCESS ENUMERATED | {'pid': 5828, 'ppid': 1384, 'name': 'esif_uf.exe', 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\dptf_cpu.inf_amd64_eede4da71d933122\\esif_uf.exe'} 
+2026-01-28 12:38:53,289 | PROCESS ENUMERATED | {'pid': 5856, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,298 | PROCESS ENUMERATED | {'pid': 5868, 'ppid': 1384, 'name': 'turbo_vpn-service.exe', 'path': 'C:\\Program Files (x86)\\TurboVPN\\turbo_vpn-service.exe'} 
+2026-01-28 12:38:53,305 | PROCESS ENUMERATED | {'pid': 5876, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,314 | PROCESS ENUMERATED | {'pid': 5888, 'ppid': 1384, 'name': 'WMIRegistrationService.exe', 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\mewmiprov.inf_amd64_2c17521ca0d3f79c\\WMIRegistrationService.exe'} 
+2026-01-28 12:38:53,321 | PROCESS ENUMERATED | {'pid': 5896, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,329 | PROCESS ENUMERATED | {'pid': 5912, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:53,337 | PROCESS ENUMERATED | {'pid': 5916, 'ppid': 1384, 'name': 'MsMpEng.exe', 'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25110.6-0\\MsMpEng.exe'} 
+2026-01-28 12:38:53,345 | PROCESS ENUMERATED | {'pid': 5940, 'ppid': 1384, 'name': 'wslservice.exe', 'path': 'C:\\Program Files\\WSL\\wslservice.exe'} 
+2026-01-28 12:38:53,353 | PROCESS ENUMERATED | {'pid': 5964, 'ppid': 1384, 'name': 'Sysmon64.exe', 'path': 'C:\\Windows\\Sysmon64.exe'} 
+2026-01-28 12:38:53,361 | PROCESS ENUMERATED | {'pid': 6072, 'ppid': 1536, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'} 
+2026-01-28 12:38:53,369 | PROCESS ENUMERATED | {'pid': 6096, 'ppid': 4688, 'name': 'CrossDeviceResume.exe', 'path': 'C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\CrossDeviceResume.exe'} 
+2026-01-28 12:38:53,377 | PROCESS ENUMERATED | {'pid': 6328, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,384 | PROCESS ENUMERATED | {'pid': 6368, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:53,393 | PROCESS ENUMERATED | {'pid': 6380, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,400 | PROCESS ENUMERATED | {'pid': 6532, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,409 | PROCESS ENUMERATED | {'pid': 6700, 'ppid': 18312, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'} 
+2026-01-28 12:38:53,417 | PROCESS ENUMERATED | {'pid': 6724, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:53,425 | PROCESS ENUMERATED | {'pid': 6884, 'ppid': 5712, 'name': 'rundll32.exe', 'path': 'C:\\Windows\\System32\\rundll32.exe'} 
+2026-01-28 12:38:53,432 | PROCESS ENUMERATED | {'pid': 6936, 'ppid': 1536, 'name': 'unsecapp.exe', 'path': 'C:\\Windows\\System32\\wbem\\unsecapp.exe'} 
+2026-01-28 12:38:53,439 | PROCESS ENUMERATED | {'pid': 7372, 'ppid': 11892, 'name': 'NgcIso.exe', 'path': 'C:\\Windows\\System32\\NgcIso.exe'} 
+2026-01-28 12:38:53,446 | PROCESS ENUMERATED | {'pid': 7576, 'ppid': 11760, 'name': 'AWCC.Background.Server.exe', 'path': 'C:\\Program Files\\Alienware\\Alienware Command Center\\AWCC.Background.Server.exe'} 
+2026-01-28 12:38:53,453 | PROCESS ENUMERATED | {'pid': 7648, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,461 | PROCESS ENUMERATED | {'pid': 7684, 'ppid': 8488, 'name': 'Code.exe', 'path': 'D:\\Microsoft VS Code\\Code.exe'} 
+2026-01-28 12:38:53,470 | PROCESS ENUMERATED | {'pid': 7848, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,476 | PROCESS ENUMERATED | {'pid': 7856, 'ppid': 18512, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'} 
+2026-01-28 12:38:53,484 | PROCESS ENUMERATED | {'pid': 7916, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,490 | PROCESS ENUMERATED | {'pid': 8076, 'ppid': 16552, 'name': 'OneDrive.exe', 'path': 'C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe'} 
+2026-01-28 12:38:53,498 | PROCESS ENUMERATED | {'pid': 8088, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:53,506 | PROCESS ENUMERATED | {'pid': 8120, 'ppid': 11612, 'name': 'SecurityHealthSystray.exe', 'path': 'C:\\Windows\\System32\\SecurityHealthSystray.exe'} 
+2026-01-28 12:38:53,513 | PROCESS ENUMERATED | {'pid': 8324, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,520 | PROCESS ENUMERATED | {'pid': 8428, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,528 | PROCESS ENUMERATED | {'pid': 8488, 'ppid': 11612, 'name': 'Code.exe', 'path': 'D:\\Microsoft VS Code\\Code.exe'} 
+2026-01-28 12:38:53,536 | PROCESS ENUMERATED | {'pid': 8500, 'ppid': 3768, 'name': 'dasHost.exe', 'path': 'C:\\Windows\\System32\\dasHost.exe'} 
+2026-01-28 12:38:53,543 | PROCESS ENUMERATED | {'pid': 8540, 'ppid': 18312, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'} 
+2026-01-28 12:38:53,552 | PROCESS ENUMERATED | {'pid': 8800, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,560 | PROCESS ENUMERATED | {'pid': 8812, 'ppid': 1536, 'name': 'PhoneExperienceHost.exe', 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.YourPhone_1.25112.36.0_x64__8wekyb3d8bbwe\\PhoneExperienceHost.exe'} 
+2026-01-28 12:38:53,568 | PROCESS ENUMERATED | {'pid': 8936, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,576 | PROCESS ENUMERATED | {'pid': 8984, 'ppid': 5712, 'name': 'nvcontainer.exe', 'path': 'C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe'} 
+2026-01-28 12:38:53,584 | PROCESS ENUMERATED | {'pid': 8992, 'ppid': 5712, 'name': 'nvcontainer.exe', 'path': 'C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe'} 
+2026-01-28 12:38:53,592 | PROCESS ENUMERATED | {'pid': 9164, 'ppid': 1536, 'name': 'AWCC.exe', 'path': 'C:\\Program Files\\WindowsApps\\DellInc.AlienwareCommandCenter_5.9.2.0_x64__htrsf667h5kn2\\AWCC.exe'} 
+2026-01-28 12:38:53,601 | PROCESS ENUMERATED | {'pid': 9304, 'ppid': 1384, 'name': 'MSPCManagerService.exe', 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftPCManager_3.20.2.0_x64__8wekyb3d8bbwe\\PCManager\\MSPCManagerService.exe'} 
+2026-01-28 12:38:53,608 | PROCESS ENUMERATED | {'pid': 9328, 'ppid': 1384, 'name': 'gamingservices.exe', 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.GamingServices_33.108.12001.0_x64__8wekyb3d8bbwe\\gamingservices.exe'} 
+2026-01-28 12:38:53,616 | PROCESS ENUMERATED | {'pid': 9392, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,625 | PROCESS ENUMERATED | {'pid': 9400, 'ppid': 5744, 'name': 'uihost.exe', 'path': 'C:\\Program Files\\McAfee\\WebAdvisor\\uihost.exe'} 
+2026-01-28 12:38:53,633 | PROCESS ENUMERATED | {'pid': 9408, 'ppid': 5828, 'name': 'dptf_helper.exe', 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\dptf_cpu.inf_amd64_eede4da71d933122\\dptf_helper.exe'} 
+2026-01-28 12:38:53,641 | PROCESS ENUMERATED | {'pid': 9424, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:53,649 | PROCESS ENUMERATED | {'pid': 9532, 'ppid': 1384, 'name': 'IntelGraphicsSoftware.Service.exe', 'path': 'C:\\Program Files\\WindowsApps\\AppUp.IntelArcSoftware_25.44.2010.0_x64__8j3eq9eme6ctt\\VFS\\ProgramFilesX64\\Intel\\Intel Graphics Software\\IntelGraphicsSoftware.Service.exe'} 
+2026-01-28 12:38:53,657 | PROCESS ENUMERATED | {'pid': 9640, 'ppid': 4948, 'name': 'wlanext.exe', 'path': 'C:\\Windows\\System32\\wlanext.exe'} 
+2026-01-28 12:38:53,664 | PROCESS ENUMERATED | {'pid': 9648, 'ppid': 1384, 'name': 'gamingservicesnet.exe', 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.GamingServices_33.108.12001.0_x64__8wekyb3d8bbwe\\gamingservicesnet.exe'} 
+2026-01-28 12:38:53,671 | PROCESS ENUMERATED | {'pid': 9896, 'ppid': 11612, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:53,678 | PROCESS ENUMERATED | {'pid': 10004, 'ppid': 5800, 'name': 'RtkAudUService64.exe', 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_4dab0fd1fdeb2aa1\\RtkAudUService64.exe'} 
+2026-01-28 12:38:53,684 | PROCESS ENUMERATED | {'pid': 10032, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,691 | PROCESS ENUMERATED | {'pid': 10064, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:53,698 | PROCESS ENUMERATED | {'pid': 10172, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,706 | PROCESS ENUMERATED | {'pid': 10236, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,713 | PROCESS ENUMERATED | {'pid': 10304, 'ppid': 1384, 'name': 'Intel_PIE_Service.exe', 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\piecomponent.inf_amd64_7955510f793739e6\\Intel_PIE_Service.exe'} 
+2026-01-28 12:38:53,721 | PROCESS ENUMERATED | {'pid': 10468, 'ppid': 1384, 'name': 'PresentationFontCache.exe', 'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v3.0\\WPF\\PresentationFontCache.exe'} 
+2026-01-28 12:38:53,728 | PROCESS ENUMERATED | {'pid': 10544, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,735 | PROCESS ENUMERATED | {'pid': 10656, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:53,743 | PROCESS ENUMERATED | {'pid': 10680, 'ppid': 11312, 'name': 'pet.exe', 'path': 'C:\\Users\\parth\\.vscode\\extensions\\ms-python.python-2026.0.0-win32-x64\\python-env-tools\\bin\\pet.exe'} 
+2026-01-28 12:38:53,750 | PROCESS ENUMERATED | {'pid': 10692, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,758 | PROCESS ENUMERATED | {'pid': 10956, 'ppid': 2456, 'name': 'taskhostw.exe', 'path': 'C:\\Windows\\System32\\taskhostw.exe'} 
+2026-01-28 12:38:53,765 | PROCESS ENUMERATED | {'pid': 11080, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,774 | PROCESS ENUMERATED | {'pid': 11088, 'ppid': 4192, 'name': 'igfxEMN.exe', 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\cui_dch.inf_amd64_f9a50a60f9a51394\\igfxEMN.exe'} 
+2026-01-28 12:38:53,782 | PROCESS ENUMERATED | {'pid': 11128, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,790 | PROCESS ENUMERATED | {'pid': 11312, 'ppid': 8488, 'name': 'Code.exe', 'path': 'D:\\Microsoft VS Code\\Code.exe'} 
+2026-01-28 12:38:53,798 | PROCESS ENUMERATED | {'pid': 11448, 'ppid': 1536, 'name': 'backgroundTaskHost.exe', 'path': 'C:\\Windows\\System32\\backgroundTaskHost.exe'} 
+2026-01-28 12:38:53,805 | PROCESS ENUMERATED | {'pid': 11568, 'ppid': 5532, 'name': 'AggregatorHost.exe', 'path': 'C:\\Windows\\System32\\AggregatorHost.exe'} 
+2026-01-28 12:38:53,813 | PROCESS ENUMERATED | {'pid': 11612, 'ppid': 11492, 'name': 'explorer.exe', 'path': 'C:\\Windows\\explorer.exe'} 
+2026-01-28 12:38:53,820 | PROCESS ENUMERATED | {'pid': 11700, 'ppid': 1384, 'name': 'ServiceShell.exe', 'path': 'C:\\Program Files (x86)\\Dell\\UpdateService\\ServiceShell.exe'} 
+2026-01-28 12:38:53,828 | PROCESS ENUMERATED | {'pid': 11716, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,836 | PROCESS ENUMERATED | {'pid': 11760, 'ppid': 1384, 'name': 'AWCC.Service.exe', 'path': 'C:\\Program Files\\Alienware\\Alienware Command Center\\AWCC.Service.exe'} 
+2026-01-28 12:38:53,843 | PROCESS ENUMERATED | {'pid': 11892, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,851 | PROCESS ENUMERATED | {'pid': 11988, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,859 | PROCESS ENUMERATED | {'pid': 12080, 'ppid': 9532, 'name': 'PresentMonService.exe', 'path': 'C:\\Program Files\\WindowsApps\\AppUp.IntelArcSoftware_25.44.2010.0_x64__8j3eq9eme6ctt\\VFS\\ProgramFilesX64\\Intel\\Intel Graphics Software\\PresentMonService.exe'} 
+2026-01-28 12:38:53,866 | PROCESS ENUMERATED | {'pid': 12088, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,873 | PROCESS ENUMERATED | {'pid': 12216, 'ppid': 12080, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'} 
+2026-01-28 12:38:53,881 | PROCESS ENUMERATED | {'pid': 12380, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,890 | PROCESS ENUMERATED | {'pid': 12388, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,899 | PROCESS ENUMERATED | {'pid': 12748, 'ppid': 5560, 'name': 'Dell.Update.SubAgent.exe', 'path': 'C:\\Program Files (x86)\\Dell\\UpdateService\\DCF\\Dell.Update.SubAgent.exe'} 
+2026-01-28 12:38:53,908 | PROCESS ENUMERATED | {'pid': 12796, 'ppid': 1440, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'} 
+2026-01-28 12:38:53,916 | PROCESS ENUMERATED | {'pid': 12856, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,924 | PROCESS ENUMERATED | {'pid': 12908, 'ppid': 11312, 'name': 'Code.exe', 'path': 'D:\\Microsoft VS Code\\Code.exe'} 
+2026-01-28 12:38:53,932 | PROCESS ENUMERATED | {'pid': 13032, 'ppid': 2456, 'name': 'NahimicSvc64.exe', 'path': 'C:\\Windows\\System32\\NahimicSvc64.exe'} 
+2026-01-28 12:38:53,940 | PROCESS ENUMERATED | {'pid': 13052, 'ppid': 2456, 'name': 'NahimicSvc32.exe', 'path': 'C:\\Windows\\SysWOW64\\NahimicSvc32.exe'} 
+2026-01-28 12:38:53,949 | PROCESS ENUMERATED | {'pid': 13076, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,956 | PROCESS ENUMERATED | {'pid': 13184, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,964 | PROCESS ENUMERATED | {'pid': 13256, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:53,974 | PROCESS ENUMERATED | {'pid': 13564, 'ppid': 11760, 'name': 'OCControl.Service.exe', 'path': 'C:\\Program Files\\Alienware\\Alienware Command Center\\OCControlService\\OCControl.Service.exe'} 
+2026-01-28 12:38:53,982 | PROCESS ENUMERATED | {'pid': 13668, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:53,988 | PROCESS ENUMERATED | {'pid': 13704, 'ppid': 1536, 'name': 'Widgets.exe', 'path': 'C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\\Dashboard\\Widgets.exe'} 
+2026-01-28 12:38:53,995 | PROCESS ENUMERATED | {'pid': 13732, 'ppid': 8488, 'name': 'Code.exe', 'path': 'D:\\Microsoft VS Code\\Code.exe'} 
+2026-01-28 12:38:54,001 | PROCESS ENUMERATED | {'pid': 13884, 'ppid': 10980, 'name': 'BraveCrashHandler.exe', 'path': 'C:\\Program Files (x86)\\BraveSoftware\\Update\\1.3.361.151\\BraveCrashHandler.exe'} 
+2026-01-28 12:38:54,008 | PROCESS ENUMERATED | {'pid': 13900, 'ppid': 10980, 'name': 'BraveCrashHandler64.exe', 'path': 'C:\\Program Files (x86)\\BraveSoftware\\Update\\1.3.361.151\\BraveCrashHandler64.exe'} 
+2026-01-28 12:38:54,015 | PROCESS ENUMERATED | {'pid': 13924, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:54,022 | PROCESS ENUMERATED | {'pid': 13976, 'ppid': 1384, 'name': 'FusionService.exe', 'path': 'C:\\Program Files\\Dell\\Fusion\\FusionService.exe'} 
+2026-01-28 12:38:54,029 | PROCESS ENUMERATED | {'pid': 14116, 'ppid': 18312, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'} 
+2026-01-28 12:38:54,036 | PROCESS ENUMERATED | {'pid': 14244, 'ppid': 1536, 'name': 'StartMenuExperienceHost.exe', 'path': 'C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe'} 
+2026-01-28 12:38:54,044 | PROCESS ENUMERATED | {'pid': 14268, 'ppid': 1536, 'name': 'SearchHost.exe', 'path': 'C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe'} 
+2026-01-28 12:38:54,052 | PROCESS ENUMERATED | {'pid': 14280, 'ppid': 18512, 'name': 'pwsh.exe', 'path': 'C:\\Program Files\\PowerShell\\7-preview\\pwsh.exe'} 
+2026-01-28 12:38:54,059 | PROCESS ENUMERATED | {'pid': 14504, 'ppid': 584, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'} 
+2026-01-28 12:38:54,066 | PROCESS ENUMERATED | {'pid': 14516, 'ppid': 1536, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'} 
+2026-01-28 12:38:54,073 | PROCESS ENUMERATED | {'pid': 14592, 'ppid': 1536, 'name': 'WidgetService.exe', 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe\\WidgetService\\WidgetService.exe'} 
+2026-01-28 12:38:54,080 | PROCESS ENUMERATED | {'pid': 14612, 'ppid': 17008, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'} 
+2026-01-28 12:38:54,087 | PROCESS ENUMERATED | {'pid': 14712, 'ppid': 4500, 'name': 'ctfmon.exe', 'path': 'C:\\Windows\\System32\\ctfmon.exe'} 
+2026-01-28 12:38:54,094 | PROCESS ENUMERATED | {'pid': 14824, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,102 | PROCESS ENUMERATED | {'pid': 14848, 'ppid': 18480, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'} 
+2026-01-28 12:38:54,109 | PROCESS ENUMERATED | {'pid': 14936, 'ppid': 14268, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'} 
+2026-01-28 12:38:54,116 | PROCESS ENUMERATED | {'pid': 14996, 'ppid': 14936, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'} 
+2026-01-28 12:38:54,123 | PROCESS ENUMERATED | {'pid': 15060, 'ppid': 1384, 'name': 'XtuService.exe', 'path': 'C:\\Windows\\SysWOW64\\XtuService.exe'} 
+2026-01-28 12:38:54,129 | PROCESS ENUMERATED | {'pid': 15108, 'ppid': 1384, 'name': 'NahimicService.exe', 'path': 'C:\\Windows\\System32\\NahimicService.exe'} 
+2026-01-28 12:38:54,136 | PROCESS ENUMERATED | {'pid': 15144, 'ppid': 5560, 'name': 'Dell.TechHub.Diagnostics.SubAgent.exe', 'path': 'C:\\Program Files\\Dell\\DTP\\DiagnosticsSubAgent\\Dell.TechHub.Diagnostics.SubAgent.exe'} 
+2026-01-28 12:38:54,143 | PROCESS ENUMERATED | {'pid': 15388, 'ppid': 14936, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'} 
+2026-01-28 12:38:54,149 | PROCESS ENUMERATED | {'pid': 15400, 'ppid': 14936, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'} 
+2026-01-28 12:38:54,156 | PROCESS ENUMERATED | {'pid': 15588, 'ppid': 1384, 'name': 'NisSrv.exe', 'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25110.6-0\\NisSrv.exe'} 
+2026-01-28 12:38:54,164 | PROCESS ENUMERATED | {'pid': 15644, 'ppid': 14936, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'} 
+2026-01-28 12:38:54,171 | PROCESS ENUMERATED | {'pid': 15856, 'ppid': 14936, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'} 
+2026-01-28 12:38:54,178 | PROCESS ENUMERATED | {'pid': 15952, 'ppid': 1536, 'name': 'SystemSettings.exe', 'path': 'C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe'} 
+2026-01-28 12:38:54,185 | PROCESS ENUMERATED | {'pid': 15972, 'ppid': 17008, 'name': 'Dell.TechHub.Instrumentation.UserProcess.exe', 'path': 'C:\\Program Files\\Dell\\DTP\\InstrumentationSubAgent\\Dell.TechHub.Instrumentation.UserProcess.exe'} 
+2026-01-28 12:38:54,192 | PROCESS ENUMERATED | {'pid': 16536, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,199 | PROCESS ENUMERATED | {'pid': 16544, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:54,205 | PROCESS ENUMERATED | {'pid': 16552, 'ppid': 11612, 'name': 'OneDrive.exe', 'path': 'C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe'} 
+2026-01-28 12:38:54,212 | PROCESS ENUMERATED | {'pid': 16724, 'ppid': 1536, 'name': 'XboxPcAppFT.exe', 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.GamingApp_2512.1001.36.0_x64__8wekyb3d8bbwe\\XboxPcAppFT.exe'} 
+2026-01-28 12:38:54,218 | PROCESS ENUMERATED | {'pid': 16740, 'ppid': 1536, 'name': 'TextInputHost.exe', 'path': 'C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe'} 
+2026-01-28 12:38:54,225 | PROCESS ENUMERATED | {'pid': 16976, 'ppid': 1536, 'name': 'dllhost.exe', 'path': 'C:\\Windows\\System32\\dllhost.exe'} 
+2026-01-28 12:38:54,232 | PROCESS ENUMERATED | {'pid': 17008, 'ppid': 5560, 'name': 'Dell.TechHub.Instrumentation.SubAgent.exe', 'path': 'C:\\Program Files\\Dell\\DTP\\InstrumentationSubAgent\\Dell.TechHub.Instrumentation.SubAgent.exe'} 
+2026-01-28 12:38:54,239 | PROCESS ENUMERATED | {'pid': 17052, 'ppid': 1536, 'name': 'LockApp.exe', 'path': 'C:\\Windows\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\LockApp.exe'} 
+2026-01-28 12:38:54,248 | PROCESS ENUMERATED | {'pid': 17388, 'ppid': 11612, 'name': 'RtkAudUService64.exe', 'path': 'C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_4dab0fd1fdeb2aa1\\RtkAudUService64.exe'} 
+2026-01-28 12:38:54,256 | PROCESS ENUMERATED | {'pid': 17400, 'ppid': 8488, 'name': 'Code.exe', 'path': 'D:\\Microsoft VS Code\\Code.exe'} 
+2026-01-28 12:38:54,265 | PROCESS ENUMERATED | {'pid': 17412, 'ppid': 1536, 'name': 'ApplicationFrameHost.exe', 'path': 'C:\\Windows\\System32\\ApplicationFrameHost.exe'} 
+2026-01-28 12:38:54,272 | PROCESS ENUMERATED | {'pid': 17468, 'ppid': 18012, 'name': 'NVIDIA Share.exe', 'path': 'C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe'} 
+2026-01-28 12:38:54,280 | PROCESS ENUMERATED | {'pid': 17744, 'ppid': 18012, 'name': 'NVIDIA Share.exe', 'path': 'C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe'} 
+2026-01-28 12:38:54,288 | PROCESS ENUMERATED | {'pid': 17920, 'ppid': 1384, 'name': 'SecurityHealthService.exe', 'path': 'C:\\Windows\\System32\\SecurityHealthService.exe'} 
+2026-01-28 12:38:54,295 | PROCESS ENUMERATED | {'pid': 17932, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:54,303 | PROCESS ENUMERATED | {'pid': 17964, 'ppid': 5712, 'name': 'nvsphelper64.exe', 'path': 'C:\\Program Files\\NVIDIA Corporation\\ShadowPlay\\nvsphelper64.exe'} 
+2026-01-28 12:38:54,312 | PROCESS ENUMERATED | {'pid': 18012, 'ppid': 8984, 'name': 'NVIDIA Share.exe', 'path': 'C:\\Program Files\\NVIDIA Corporation\\NVIDIA GeForce Experience\\NVIDIA Share.exe'} 
+2026-01-28 12:38:54,321 | PROCESS ENUMERATED | {'pid': 18168, 'ppid': 1536, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'} 
+2026-01-28 12:38:54,329 | PROCESS ENUMERATED | {'pid': 18192, 'ppid': 1536, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'} 
+2026-01-28 12:38:54,338 | PROCESS ENUMERATED | {'pid': 18308, 'ppid': 18312, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'} 
+2026-01-28 12:38:54,347 | PROCESS ENUMERATED | {'pid': 18312, 'ppid': 2516, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'} 
+2026-01-28 12:38:54,354 | PROCESS ENUMERATED | {'pid': 18368, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,361 | PROCESS ENUMERATED | {'pid': 18416, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:54,368 | PROCESS ENUMERATED | {'pid': 18436, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,376 | PROCESS ENUMERATED | {'pid': 18480, 'ppid': 5560, 'name': 'Dell.TechHub.Analytics.SubAgent.exe', 'path': 'C:\\Program Files\\Dell\\DTP\\AnalyticsSubAgent\\Dell.TechHub.Analytics.SubAgent.exe'} 
+2026-01-28 12:38:54,383 | PROCESS ENUMERATED | {'pid': 18512, 'ppid': 8488, 'name': 'Code.exe', 'path': 'D:\\Microsoft VS Code\\Code.exe'} 
+2026-01-28 12:38:54,390 | PROCESS ENUMERATED | {'pid': 18816, 'ppid': 12748, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'} 
+2026-01-28 12:38:54,398 | PROCESS ENUMERATED | {'pid': 18924, 'ppid': 1384, 'name': 'FileSyncHelper.exe', 'path': 'C:\\Program Files\\Microsoft OneDrive\\25.243.1211.0001\\FileSyncHelper.exe'} 
+2026-01-28 12:38:54,408 | PROCESS ENUMERATED | {'pid': 18972, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,418 | PROCESS ENUMERATED | {'pid': 19080, 'ppid': 1384, 'name': 'Dell.D3.WinSvc.exe', 'path': 'C:\\Program Files (x86)\\Dell Digital Delivery Services\\Dell.D3.WinSvc.exe'} 
+2026-01-28 12:38:54,427 | PROCESS ENUMERATED | {'pid': 19088, 'ppid': 8488, 'name': 'Code.exe', 'path': 'D:\\Microsoft VS Code\\Code.exe'} 
+2026-01-28 12:38:54,440 | PROCESS ENUMERATED | {'pid': 19164, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:54,454 | PROCESS ENUMERATED | {'pid': 19168, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:54,467 | PROCESS ENUMERATED | {'pid': 19412, 'ppid': 15144, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'} 
+2026-01-28 12:38:54,479 | PROCESS ENUMERATED | {'pid': 19756, 'ppid': 11312, 'name': 'Code.exe', 'path': 'D:\\Microsoft VS Code\\Code.exe'} 
+2026-01-28 12:38:54,491 | PROCESS ENUMERATED | {'pid': 19856, 'ppid': 1536, 'name': 'FileCoAuth.exe', 'path': 'C:\\Program Files\\Microsoft OneDrive\\25.243.1211.0001\\FileCoAuth.exe'} 
+2026-01-28 12:38:54,501 | PROCESS ENUMERATED | {'pid': 20040, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,512 | PROCESS ENUMERATED | {'pid': 20056, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,523 | PROCESS ENUMERATED | {'pid': 20068, 'ppid': 1536, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'} 
+2026-01-28 12:38:54,535 | PROCESS ENUMERATED | {'pid': 20108, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,546 | PROCESS ENUMERATED | {'pid': 20172, 'ppid': 1536, 'name': 'WindowsPackageManagerServer.exe', 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.27.460.0_x64__8wekyb3d8bbwe\\WindowsPackageManagerServer.exe'} 
+2026-01-28 12:38:54,556 | PROCESS ENUMERATED | {'pid': 20228, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,565 | PROCESS ENUMERATED | {'pid': 20736, 'ppid': 18512, 'name': 'pwsh.exe', 'path': 'C:\\Program Files\\PowerShell\\7-preview\\pwsh.exe'} 
+2026-01-28 12:38:54,574 | PROCESS ENUMERATED | {'pid': 21040, 'ppid': 18512, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'} 
+2026-01-28 12:38:54,586 | PROCESS ENUMERATED | {'pid': 21080, 'ppid': 9896, 'name': 'cmd.exe', 'path': 'C:\\Windows\\System32\\cmd.exe'} 
+2026-01-28 12:38:54,596 | PROCESS ENUMERATED | {'pid': 21088, 'ppid': 21080, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'} 
+2026-01-28 12:38:54,611 | PROCESS ENUMERATED | {'pid': 21156, 'ppid': 21080, 'name': 'browserhost.exe', 'path': 'C:\\Program Files\\McAfee\\WebAdvisor\\browserhost.exe'} 
+2026-01-28 12:38:54,621 | PROCESS ENUMERATED | {'pid': 21384, 'ppid': 1536, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'} 
+2026-01-28 12:38:54,631 | PROCESS ENUMERATED | {'pid': 21420, 'ppid': 8488, 'name': 'Code.exe', 'path': 'D:\\Microsoft VS Code\\Code.exe'} 
+2026-01-28 12:38:54,642 | PROCESS ENUMERATED | {'pid': 21464, 'ppid': 23636, 'name': 'python3.11.exe', 'path': 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python3.11.exe'} 
+2026-01-28 12:38:54,651 | PROCESS ENUMERATED | {'pid': 21952, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,659 | PROCESS ENUMERATED | {'pid': 22100, 'ppid': 4688, 'name': 'ShellHost.exe', 'path': 'C:\\Windows\\System32\\ShellHost.exe'} 
+2026-01-28 12:38:54,671 | PROCESS ENUMERATED | {'pid': 22300, 'ppid': 8488, 'name': 'Code.exe', 'path': 'D:\\Microsoft VS Code\\Code.exe'} 
+2026-01-28 12:38:54,682 | PROCESS ENUMERATED | {'pid': 22332, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,690 | PROCESS ENUMERATED | {'pid': 22380, 'ppid': 18312, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'} 
+2026-01-28 12:38:54,700 | PROCESS ENUMERATED | {'pid': 22592, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,710 | PROCESS ENUMERATED | {'pid': 22624, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:54,719 | PROCESS ENUMERATED | {'pid': 22740, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,732 | PROCESS ENUMERATED | {'pid': 23020, 'ppid': 10680, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'} 
+2026-01-28 12:38:54,743 | PROCESS ENUMERATED | {'pid': 23036, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,753 | PROCESS ENUMERATED | {'pid': 23224, 'ppid': 22900, 'name': 'git.exe', 'path': 'C:\\Program Files\\Git\\mingw64\\libexec\\git-core\\git.exe'} 
+2026-01-28 12:38:54,766 | PROCESS ENUMERATED | {'pid': 23280, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,779 | PROCESS ENUMERATED | {'pid': 23348, 'ppid': 1384, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'} 
+2026-01-28 12:38:54,788 | PROCESS ENUMERATED | {'pid': 23392, 'ppid': 9896, 'name': 'brave.exe', 'path': 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe'} 
+2026-01-28 12:38:54,797 | PROCESS ENUMERATED | {'pid': 23636, 'ppid': 14280, 'name': 'python.exe', 'path': 'D:\\unified_mentor\\Windows System Monitoring Tool\\Windows_System_Monitoring_Agent\\venv\\Scripts\\python.exe'} 
+2026-01-28 12:38:54,807 | PROCESS ENUMERATED | {'pid': 24096, 'ppid': 20224, 'name': 'OneDrive.Sync.Service.exe', 'path': 'C:\\Program Files\\Microsoft OneDrive\\25.243.1211.0001\\OneDrive.Sync.Service.exe'} 
+2026-01-28 12:38:54,821 | PROCESS ENUMERATED | {'pid': 25444, 'ppid': 1536, 'name': 'WmiPrvSE.exe', 'path': 'C:\\Windows\\System32\\wbem\\WmiPrvSE.exe'} 
