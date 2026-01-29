@@ -1,0 +1,13 @@
+system
+explorer.exe
+svchost.exe
+lsass.exe
+wininit.exe
+services.exe
+smss.exe
+csrss.exe
+powershell.exe
+cmd.exe
+chrome.exe
+firefox.exe
+python.exe
