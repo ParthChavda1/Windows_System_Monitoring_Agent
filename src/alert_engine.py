@@ -1,4 +1,5 @@
 import logging
+from datetime import datetime
 
 ALERT_LOG = "logs/alerts.log"
 
@@ -18,6 +19,7 @@ def get_alert_logger():
 
 def raise_alert(alert_type,severity,details):
     alert = {
+        "timestamp": datetime.now().isoformat(),
         "type":alert_type,
         "severity":severity,
         "details":details
