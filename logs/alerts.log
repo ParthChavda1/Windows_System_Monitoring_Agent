@@ -1,0 +1,14 @@
+2026-01-30 22:44:28,787 | ALERT | {'type': 'Suspicious Startup Service', 'severity': 'HIGH', 'details': 'Suspicious startup service detected: TestBadService (TestBadService) | Path: C:\\Users\\parth\\AppData\\Local\\Temp\\fake_service.exe'}
+2026-01-30 22:44:29,276 | ALERT | {'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: system idle process | Path:'}
+2026-01-30 22:44:29,277 | ALERT | {'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: registry | Path:registry'}
+2026-01-30 22:44:29,277 | ALERT | {'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: tiworker.exe | Path:c:\\windows\\winsxs\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.6449_none_7e0d59887c8e1467\\tiworker.exe'}
+2026-01-30 22:44:29,277 | ALERT | {'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: fodhelper.exe | Path:c:\\windows\\system32\\fodhelper.exe'}
+2026-01-30 22:44:29,277 | ALERT | {'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: memcompression | Path:memcompression'}
+2026-01-30 22:44:29,277 | ALERT | {'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: dashost.exe | Path:c:\\windows\\system32\\dashost.exe'}
+2026-01-30 22:44:29,277 | ALERT | {'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: microsoft.media.player.exe | Path:c:\\program files\\windowsapps\\microsoft.zunemusic_11.2512.10.0_x64__8wekyb3d8bbwe\\microsoft.media.player.exe'}
+2026-01-30 22:44:29,277 | ALERT | {'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: wmiprvse.exe | Path:c:\\windows\\system32\\wbem\\wmiprvse.exe'}
+2026-01-30 22:44:29,277 | ALERT | {'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: lockapp.exe | Path:c:\\windows\\systemapps\\microsoft.lockapp_cw5n1h2txyewy\\lockapp.exe'}
+2026-01-30 22:44:29,277 | ALERT | {'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: useroobebroker.exe | Path:c:\\windows\\system32\\oobe\\useroobebroker.exe'}
+2026-01-30 22:44:29,277 | ALERT | {'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: wmiprvse.exe | Path:c:\\windows\\system32\\wbem\\wmiprvse.exe'}
+2026-01-30 22:44:29,277 | ALERT | {'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: trustedinstaller.exe | Path:c:\\windows\\servicing\\trustedinstaller.exe'}
+2026-01-30 22:44:29,277 | ALERT | {'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: crashhelper.exe | Path:c:\\program files\\mozilla firefox\\crashhelper.exe'}

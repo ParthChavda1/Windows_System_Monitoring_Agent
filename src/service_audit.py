@@ -1,14 +1,6 @@
 import wmi
-import logging
 from src.alert_engine import raise_alert
-
-ACTIVITY_LOG = "logs/activity.log"
-
-logging.basicConfig(
-    filename=ACTIVITY_LOG,
-    level=logging.INFO,
-    format="%(asctime)s | %(message)s"
-)
+from src.process_monitor import get_activity_logger
 
 SUSPICIOUS_PATH_KEYWORDS = [
     "\\temp\\",
@@ -19,7 +11,7 @@ SUSPICIOUS_PATH_KEYWORDS = [
 def audit_startup_services():
     c = wmi.WMI()
     services = c.Win32_Service()
-
+    logger = get_activity_logger()
     for svc in services:
         name = svc.Name
         display_name = svc.DisplayName
@@ -33,7 +25,7 @@ def audit_startup_services():
             "start_mode": start_mode
         }
 
-        logging.info(f"SERVICE ENUMERATED | {service_data}")
+        logger.info(f"SERVICE ENUMERATED | {service_data}")
 
         path_lower = path.lower()
         for keyword in SUSPICIOUS_PATH_KEYWORDS:

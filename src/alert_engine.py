@@ -2,7 +2,19 @@ import logging
 
 ALERT_LOG = "logs/alerts.log"
 
-logging.basicConfig(filename=ALERT_LOG,level=logging.WARNING,format="%(asctime)s | %(message)s")
+# logging.basicConfig(filename=ALERT_LOG,level=logging.WARNING,format="%(asctime)s | %(message)s")
+def get_alert_logger():
+    logger = logging.getLogger("alert_logger")
+    logger.setLevel(logging.WARNING)
+
+    if not logger.handlers:
+        handler = logging.FileHandler(ALERT_LOG)
+        formatter = logging.Formatter("%(asctime)s | %(message)s")
+        handler.setFormatter(formatter)
+        logger.addHandler(handler)
+    
+    return logger
+
 
 def raise_alert(alert_type,severity,details):
     alert = {
@@ -10,6 +22,7 @@ def raise_alert(alert_type,severity,details):
         "severity":severity,
         "details":details
     }
-    logging.warning(f"ALERT | {alert}")
-    
+    logger1 = get_alert_logger()
+    logger1.warning(f"ALERT | {alert}")
+    # logging.warning(f"ALERT | {alert}")
     
