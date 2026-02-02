@@ -1,10 +1,11 @@
 from src.alert_engine import raise_alert
+from src.service_audit import SUSPICIOUS_PATH_KEYWORDS
 
-SUSPICIOUS_PATH_KEYWORDS = [
-    "//temp//",
-    "//appdata//",
-    "//downloads//",
-]
+# SUSPICIOUS_PATH_KEYWORDS = [
+#     "//temp//",
+#     "//appdata//",
+#     "//downloads//",
+# ]
 
 def load_list(file_path):
     with open(file_path,"r") as f:

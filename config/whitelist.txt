@@ -1,4 +1,6 @@
+
 system
+registry
 smss.exe
 csrss.exe
 wininit.exe
@@ -23,6 +25,7 @@ securityhealthservice.exe
 securityhealthsystray.exe
 runtimebroker.exe
 ctfmon.exe
+wmiprvse.exe
 fontdrvhost.exe
 smartscreen.exe
 searchindexer.exe

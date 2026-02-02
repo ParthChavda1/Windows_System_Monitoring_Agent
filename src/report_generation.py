@@ -1,4 +1,6 @@
+import ast
 from collections import Counter
+import json
 
 ALERT_LOG = "logs/alerts.log"
 REPORT_FILE = "reports/final_report.txt"
@@ -10,10 +12,13 @@ def generate_report(total_processes):
     with open(ALERT_LOG, "r") as f:
         for line in f:
             try:
-                alert = eval(line.strip())
+                data = line.strip().split("| {")[1]
+                data = ("{" + data.strip()).replace("'",'"')
+                alert = json.loads(data)
+                # alert1 = ast.literal_eval(data)
                 alerts.append(alert)
                 severities.append(alert["severity"])
-            except:
+            except Exception:
                 continue
 
     severity_count = Counter(severities)

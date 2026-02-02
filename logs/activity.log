@@ -1,419 +1,405 @@
-2026-01-30 22:44:22,102 | PROCESS ENUMERATED | {'pid': 0, 'ppid': 0, 'name': 'System Idle Process', 'path': None}
-2026-01-30 22:44:22,118 | PROCESS ENUMERATED | {'pid': 4, 'ppid': 0, 'name': 'System', 'path': ''}
-2026-01-30 22:44:22,133 | PROCESS ENUMERATED | {'pid': 108, 'ppid': 4, 'name': 'Registry', 'path': 'Registry'}
-2026-01-30 22:44:22,139 | PROCESS ENUMERATED | {'pid': 316, 'ppid': 828, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
-2026-01-30 22:44:22,146 | PROCESS ENUMERATED | {'pid': 368, 'ppid': 4, 'name': 'smss.exe', 'path': 'C:\\Windows\\System32\\smss.exe'}
-2026-01-30 22:44:22,153 | PROCESS ENUMERATED | {'pid': 412, 'ppid': 640, 'name': 'dwm.exe', 'path': 'C:\\Windows\\System32\\dwm.exe'}
-2026-01-30 22:44:22,159 | PROCESS ENUMERATED | {'pid': 452, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,168 | PROCESS ENUMERATED | {'pid': 468, 'ppid': 460, 'name': 'csrss.exe', 'path': 'C:\\Windows\\System32\\csrss.exe'}
-2026-01-30 22:44:22,179 | PROCESS ENUMERATED | {'pid': 472, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,185 | PROCESS ENUMERATED | {'pid': 544, 'ppid': 460, 'name': 'wininit.exe', 'path': 'C:\\Windows\\System32\\wininit.exe'}
-2026-01-30 22:44:22,192 | PROCESS ENUMERATED | {'pid': 552, 'ppid': 536, 'name': 'csrss.exe', 'path': 'C:\\Windows\\System32\\csrss.exe'}
-2026-01-30 22:44:22,200 | PROCESS ENUMERATED | {'pid': 640, 'ppid': 536, 'name': 'winlogon.exe', 'path': 'C:\\Windows\\System32\\winlogon.exe'}
-2026-01-30 22:44:22,206 | PROCESS ENUMERATED | {'pid': 688, 'ppid': 544, 'name': 'services.exe', 'path': 'C:\\Windows\\System32\\services.exe'}
-2026-01-30 22:44:22,642 | PROCESS ENUMERATED | {'pid': 700, 'ppid': 4964, 'name': 'ctfmon.exe', 'path': 'C:\\Windows\\System32\\ctfmon.exe'}
-2026-01-30 22:44:22,652 | PROCESS ENUMERATED | {'pid': 708, 'ppid': 544, 'name': 'lsass.exe', 'path': 'C:\\Windows\\System32\\lsass.exe'}
-2026-01-30 22:44:22,659 | PROCESS ENUMERATED | {'pid': 768, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,687 | PROCESS ENUMERATED | {'pid': 792, 'ppid': 828, 'name': 'dllhost.exe', 'path': 'C:\\Windows\\System32\\dllhost.exe'}
-2026-01-30 22:44:22,720 | PROCESS ENUMERATED | {'pid': 828, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,733 | PROCESS ENUMERATED | {'pid': 852, 'ppid': 640, 'name': 'fontdrvhost.exe', 'path': 'C:\\Windows\\System32\\fontdrvhost.exe'}
-2026-01-30 22:44:22,743 | PROCESS ENUMERATED | {'pid': 860, 'ppid': 544, 'name': 'fontdrvhost.exe', 'path': 'C:\\Windows\\System32\\fontdrvhost.exe'}
-2026-01-30 22:44:22,749 | PROCESS ENUMERATED | {'pid': 880, 'ppid': 9268, 'name': 'firefox.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'}
-2026-01-30 22:44:22,757 | PROCESS ENUMERATED | {'pid': 960, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,764 | PROCESS ENUMERATED | {'pid': 1008, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,771 | PROCESS ENUMERATED | {'pid': 1032, 'ppid': 6820, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
-2026-01-30 22:44:22,776 | PROCESS ENUMERATED | {'pid': 1080, 'ppid': 9268, 'name': 'firefox.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'}
-2026-01-30 22:44:22,783 | PROCESS ENUMERATED | {'pid': 1144, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,791 | PROCESS ENUMERATED | {'pid': 1160, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,798 | PROCESS ENUMERATED | {'pid': 1208, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,803 | PROCESS ENUMERATED | {'pid': 1224, 'ppid': 6820, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
-2026-01-30 22:44:22,812 | PROCESS ENUMERATED | {'pid': 1256, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,822 | PROCESS ENUMERATED | {'pid': 1264, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,830 | PROCESS ENUMERATED | {'pid': 1284, 'ppid': 828, 'name': 'TiWorker.exe', 'path': 'C:\\Windows\\WinSxS\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.6449_none_7e0d59887c8e1467\\TiWorker.exe'}
-2026-01-30 22:44:22,837 | PROCESS ENUMERATED | {'pid': 1324, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,843 | PROCESS ENUMERATED | {'pid': 1404, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,849 | PROCESS ENUMERATED | {'pid': 1456, 'ppid': 828, 'name': 'fodhelper.exe', 'path': 'C:\\Windows\\System32\\fodhelper.exe'}
-2026-01-30 22:44:22,857 | PROCESS ENUMERATED | {'pid': 1468, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,864 | PROCESS ENUMERATED | {'pid': 1476, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,872 | PROCESS ENUMERATED | {'pid': 1496, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,883 | PROCESS ENUMERATED | {'pid': 1504, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,894 | PROCESS ENUMERATED | {'pid': 1648, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,900 | PROCESS ENUMERATED | {'pid': 1696, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,908 | PROCESS ENUMERATED | {'pid': 1704, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,915 | PROCESS ENUMERATED | {'pid': 1776, 'ppid': 4, 'name': 'MemCompression', 'path': 'MemCompression'}
-2026-01-30 22:44:22,919 | PROCESS ENUMERATED | {'pid': 1784, 'ppid': 1828, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'}
-2026-01-30 22:44:22,925 | PROCESS ENUMERATED | {'pid': 1792, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,933 | PROCESS ENUMERATED | {'pid': 1800, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,937 | PROCESS ENUMERATED | {'pid': 1828, 'ppid': 6820, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
-2026-01-30 22:44:22,942 | PROCESS ENUMERATED | {'pid': 1856, 'ppid': 1828, 'name': 'powershell.exe', 'path': 'C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe'}
-2026-01-30 22:44:22,948 | PROCESS ENUMERATED | {'pid': 1860, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,957 | PROCESS ENUMERATED | {'pid': 1936, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,965 | PROCESS ENUMERATED | {'pid': 1972, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,972 | PROCESS ENUMERATED | {'pid': 2104, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,977 | PROCESS ENUMERATED | {'pid': 2140, 'ppid': 9268, 'name': 'firefox.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'}
-2026-01-30 22:44:22,986 | PROCESS ENUMERATED | {'pid': 2148, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:22,994 | PROCESS ENUMERATED | {'pid': 2160, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,002 | PROCESS ENUMERATED | {'pid': 2168, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,008 | PROCESS ENUMERATED | {'pid': 2180, 'ppid': 6820, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
-2026-01-30 22:44:23,017 | PROCESS ENUMERATED | {'pid': 2216, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,026 | PROCESS ENUMERATED | {'pid': 2228, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,034 | PROCESS ENUMERATED | {'pid': 2264, 'ppid': 1856, 'name': 'python.exe', 'path': 'C:\\Windows_Service_Process_Monitoring_Agent\\venv\\Scripts\\python.exe'}
-2026-01-30 22:44:23,043 | PROCESS ENUMERATED | {'pid': 2288, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,051 | PROCESS ENUMERATED | {'pid': 2296, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,057 | PROCESS ENUMERATED | {'pid': 2356, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,064 | PROCESS ENUMERATED | {'pid': 2364, 'ppid': 688, 'name': 'spoolsv.exe', 'path': 'C:\\Windows\\System32\\spoolsv.exe'}
-2026-01-30 22:44:23,071 | PROCESS ENUMERATED | {'pid': 2416, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,077 | PROCESS ENUMERATED | {'pid': 2512, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,083 | PROCESS ENUMERATED | {'pid': 2544, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,090 | PROCESS ENUMERATED | {'pid': 2572, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,095 | PROCESS ENUMERATED | {'pid': 2624, 'ppid': 4556, 'name': 'explorer.exe', 'path': 'C:\\Windows\\explorer.exe'}
-2026-01-30 22:44:23,104 | PROCESS ENUMERATED | {'pid': 2636, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,119 | PROCESS ENUMERATED | {'pid': 2836, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,130 | PROCESS ENUMERATED | {'pid': 2888, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,140 | PROCESS ENUMERATED | {'pid': 2896, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,158 | PROCESS ENUMERATED | {'pid': 2904, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,173 | PROCESS ENUMERATED | {'pid': 2912, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,180 | PROCESS ENUMERATED | {'pid': 2936, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,187 | PROCESS ENUMERATED | {'pid': 2976, 'ppid': 688, 'name': 'MpDefenderCoreService.exe', 'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25110.6-0\\MpDefenderCoreService.exe'}
-2026-01-30 22:44:23,194 | PROCESS ENUMERATED | {'pid': 3060, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,200 | PROCESS ENUMERATED | {'pid': 3080, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,207 | PROCESS ENUMERATED | {'pid': 3100, 'ppid': 688, 'name': 'MsMpEng.exe', 'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25110.6-0\\MsMpEng.exe'}
-2026-01-30 22:44:23,214 | PROCESS ENUMERATED | {'pid': 3172, 'ppid': 2888, 'name': 'dasHost.exe', 'path': 'C:\\Windows\\System32\\dasHost.exe'}
-2026-01-30 22:44:23,222 | PROCESS ENUMERATED | {'pid': 3256, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,226 | PROCESS ENUMERATED | {'pid': 3396, 'ppid': 9268, 'name': 'firefox.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'}
-2026-01-30 22:44:23,232 | PROCESS ENUMERATED | {'pid': 3460, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,238 | PROCESS ENUMERATED | {'pid': 3472, 'ppid': 6820, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
-2026-01-30 22:44:23,242 | PROCESS ENUMERATED | {'pid': 3500, 'ppid': 828, 'name': 'Microsoft.Media.Player.exe', 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.ZuneMusic_11.2512.10.0_x64__8wekyb3d8bbwe\\Microsoft.Media.Player.exe'}
-2026-01-30 22:44:23,249 | PROCESS ENUMERATED | {'pid': 3672, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,254 | PROCESS ENUMERATED | {'pid': 3712, 'ppid': 1828, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'}
-2026-01-30 22:44:23,258 | PROCESS ENUMERATED | {'pid': 3876, 'ppid': 828, 'name': 'SystemSettings.exe', 'path': 'C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe'}
-2026-01-30 22:44:23,267 | PROCESS ENUMERATED | {'pid': 3888, 'ppid': 2896, 'name': 'AggregatorHost.exe', 'path': 'C:\\Windows\\System32\\AggregatorHost.exe'}
-2026-01-30 22:44:23,275 | PROCESS ENUMERATED | {'pid': 3932, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,285 | PROCESS ENUMERATED | {'pid': 4020, 'ppid': 688, 'name': 'SearchIndexer.exe', 'path': 'C:\\Windows\\System32\\SearchIndexer.exe'}
-2026-01-30 22:44:23,296 | PROCESS ENUMERATED | {'pid': 4028, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,303 | PROCESS ENUMERATED | {'pid': 4044, 'ppid': 6820, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
-2026-01-30 22:44:23,308 | PROCESS ENUMERATED | {'pid': 4256, 'ppid': 9268, 'name': 'firefox.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'}
-2026-01-30 22:44:23,316 | PROCESS ENUMERATED | {'pid': 4276, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,325 | PROCESS ENUMERATED | {'pid': 4416, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,339 | PROCESS ENUMERATED | {'pid': 4436, 'ppid': 828, 'name': 'WmiPrvSE.exe', 'path': 'C:\\Windows\\System32\\wbem\\WmiPrvSE.exe'}
-2026-01-30 22:44:23,347 | PROCESS ENUMERATED | {'pid': 4516, 'ppid': 1476, 'name': 'sihost.exe', 'path': 'C:\\Windows\\System32\\sihost.exe'}
-2026-01-30 22:44:23,354 | PROCESS ENUMERATED | {'pid': 4548, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,362 | PROCESS ENUMERATED | {'pid': 4604, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,368 | PROCESS ENUMERATED | {'pid': 4616, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,373 | PROCESS ENUMERATED | {'pid': 4696, 'ppid': 1208, 'name': 'taskhostw.exe', 'path': 'C:\\Windows\\System32\\taskhostw.exe'}
-2026-01-30 22:44:23,381 | PROCESS ENUMERATED | {'pid': 4728, 'ppid': 1208, 'name': 'MicrosoftEdgeUpdate.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe'}
-2026-01-30 22:44:23,386 | PROCESS ENUMERATED | {'pid': 4768, 'ppid': 1208, 'name': 'taskhostw.exe', 'path': 'C:\\Windows\\System32\\taskhostw.exe'}
-2026-01-30 22:44:23,390 | PROCESS ENUMERATED | {'pid': 4792, 'ppid': 828, 'name': 'LockApp.exe', 'path': 'C:\\Windows\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\LockApp.exe'}
-2026-01-30 22:44:23,395 | PROCESS ENUMERATED | {'pid': 4796, 'ppid': 828, 'name': 'UserOOBEBroker.exe', 'path': 'C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe'}
-2026-01-30 22:44:23,399 | PROCESS ENUMERATED | {'pid': 4820, 'ppid': 6284, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'}
-2026-01-30 22:44:23,404 | PROCESS ENUMERATED | {'pid': 4836, 'ppid': 5216, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'}
-2026-01-30 22:44:23,413 | PROCESS ENUMERATED | {'pid': 4844, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,418 | PROCESS ENUMERATED | {'pid': 4932, 'ppid': 828, 'name': 'SearchApp.exe', 'path': 'C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe'}
-2026-01-30 22:44:23,428 | PROCESS ENUMERATED | {'pid': 4964, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,433 | PROCESS ENUMERATED | {'pid': 5088, 'ppid': 828, 'name': 'FileCoAuth.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Microsoft\\OneDrive\\25.222.1112.0002\\FileCoAuth.exe'}
-2026-01-30 22:44:23,442 | PROCESS ENUMERATED | {'pid': 5200, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,446 | PROCESS ENUMERATED | {'pid': 5216, 'ppid': 2180, 'name': 'pet.exe', 'path': 'C:\\Users\\parth\\.vscode\\extensions\\ms-python.python-2026.0.0-win32-x64\\python-env-tools\\bin\\pet.exe'}
-2026-01-30 22:44:23,455 | PROCESS ENUMERATED | {'pid': 5284, 'ppid': 828, 'name': 'MoUsoCoreWorker.exe', 'path': 'C:\\Windows\\System32\\MoUsoCoreWorker.exe'}
-2026-01-30 22:44:23,467 | PROCESS ENUMERATED | {'pid': 5348, 'ppid': 688, 'name': 'SecurityHealthService.exe', 'path': 'C:\\Windows\\System32\\SecurityHealthService.exe'}
-2026-01-30 22:44:23,477 | PROCESS ENUMERATED | {'pid': 5384, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,487 | PROCESS ENUMERATED | {'pid': 5416, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,492 | PROCESS ENUMERATED | {'pid': 5432, 'ppid': 6820, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
-2026-01-30 22:44:23,500 | PROCESS ENUMERATED | {'pid': 5492, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,508 | PROCESS ENUMERATED | {'pid': 5552, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,515 | PROCESS ENUMERATED | {'pid': 5716, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,520 | PROCESS ENUMERATED | {'pid': 6036, 'ppid': 828, 'name': 'StartMenuExperienceHost.exe', 'path': 'C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe'}
-2026-01-30 22:44:23,525 | PROCESS ENUMERATED | {'pid': 6116, 'ppid': 9268, 'name': 'firefox.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'}
-2026-01-30 22:44:23,531 | PROCESS ENUMERATED | {'pid': 6176, 'ppid': 828, 'name': 'SearchApp.exe', 'path': 'C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe'}
-2026-01-30 22:44:23,538 | PROCESS ENUMERATED | {'pid': 6196, 'ppid': 9268, 'name': 'firefox.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'}
-2026-01-30 22:44:23,543 | PROCESS ENUMERATED | {'pid': 6220, 'ppid': 6284, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'}
-2026-01-30 22:44:23,548 | PROCESS ENUMERATED | {'pid': 6284, 'ppid': 4932, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'}
-2026-01-30 22:44:23,552 | PROCESS ENUMERATED | {'pid': 6308, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,557 | PROCESS ENUMERATED | {'pid': 6444, 'ppid': 828, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
-2026-01-30 22:44:23,575 | PROCESS ENUMERATED | {'pid': 6620, 'ppid': 2264, 'name': 'python.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe'}
-2026-01-30 22:44:23,580 | PROCESS ENUMERATED | {'pid': 6644, 'ppid': 828, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
-2026-01-30 22:44:23,587 | PROCESS ENUMERATED | {'pid': 6648, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,598 | PROCESS ENUMERATED | {'pid': 6808, 'ppid': 2624, 'name': 'SecurityHealthSystray.exe', 'path': 'C:\\Windows\\System32\\SecurityHealthSystray.exe'}
-2026-01-30 22:44:23,610 | PROCESS ENUMERATED | {'pid': 6816, 'ppid': 828, 'name': 'WmiPrvSE.exe', 'path': 'C:\\Windows\\System32\\wbem\\WmiPrvSE.exe'}
-2026-01-30 22:44:23,617 | PROCESS ENUMERATED | {'pid': 6820, 'ppid': 2624, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
-2026-01-30 22:44:23,626 | PROCESS ENUMERATED | {'pid': 6856, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,632 | PROCESS ENUMERATED | {'pid': 6860, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,637 | PROCESS ENUMERATED | {'pid': 7052, 'ppid': 828, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
-2026-01-30 22:44:23,641 | PROCESS ENUMERATED | {'pid': 7108, 'ppid': 1828, 'name': 'powershell.exe', 'path': 'C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe'}
-2026-01-30 22:44:23,648 | PROCESS ENUMERATED | {'pid': 7180, 'ppid': 688, 'name': 'NisSrv.exe', 'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25110.6-0\\NisSrv.exe'}
-2026-01-30 22:44:23,652 | PROCESS ENUMERATED | {'pid': 7376, 'ppid': 1828, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'}
-2026-01-30 22:44:23,658 | PROCESS ENUMERATED | {'pid': 7784, 'ppid': 6820, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
-2026-01-30 22:44:23,662 | PROCESS ENUMERATED | {'pid': 7812, 'ppid': 828, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
-2026-01-30 22:44:23,667 | PROCESS ENUMERATED | {'pid': 7884, 'ppid': 1828, 'name': 'powershell.exe', 'path': 'C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe'}
-2026-01-30 22:44:23,673 | PROCESS ENUMERATED | {'pid': 7928, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,679 | PROCESS ENUMERATED | {'pid': 8040, 'ppid': 828, 'name': 'TextInputHost.exe', 'path': 'C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe'}
-2026-01-30 22:44:23,684 | PROCESS ENUMERATED | {'pid': 8056, 'ppid': 9268, 'name': 'firefox.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'}
-2026-01-30 22:44:23,688 | PROCESS ENUMERATED | {'pid': 8060, 'ppid': 9268, 'name': 'firefox.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'}
-2026-01-30 22:44:23,693 | PROCESS ENUMERATED | {'pid': 8148, 'ppid': 828, 'name': 'ApplicationFrameHost.exe', 'path': 'C:\\Windows\\System32\\ApplicationFrameHost.exe'}
-2026-01-30 22:44:23,700 | PROCESS ENUMERATED | {'pid': 8172, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,705 | PROCESS ENUMERATED | {'pid': 8308, 'ppid': 6284, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'}
-2026-01-30 22:44:23,709 | PROCESS ENUMERATED | {'pid': 8320, 'ppid': 6284, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'}
-2026-01-30 22:44:23,719 | PROCESS ENUMERATED | {'pid': 8324, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,725 | PROCESS ENUMERATED | {'pid': 8348, 'ppid': 6284, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'}
-2026-01-30 22:44:23,732 | PROCESS ENUMERATED | {'pid': 8488, 'ppid': 9268, 'name': 'firefox.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'}
-2026-01-30 22:44:23,739 | PROCESS ENUMERATED | {'pid': 8584, 'ppid': 6284, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'}
-2026-01-30 22:44:23,750 | PROCESS ENUMERATED | {'pid': 8648, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,759 | PROCESS ENUMERATED | {'pid': 8820, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,772 | PROCESS ENUMERATED | {'pid': 8948, 'ppid': 688, 'name': 'TrustedInstaller.exe', 'path': 'C:\\Windows\\servicing\\TrustedInstaller.exe'}
-2026-01-30 22:44:23,779 | PROCESS ENUMERATED | {'pid': 9196, 'ppid': 2180, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
-2026-01-30 22:44:23,784 | PROCESS ENUMERATED | {'pid': 9268, 'ppid': 7448, 'name': 'firefox.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'}
-2026-01-30 22:44:23,790 | PROCESS ENUMERATED | {'pid': 9508, 'ppid': 9268, 'name': 'firefox.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'}
-2026-01-30 22:44:23,800 | PROCESS ENUMERATED | {'pid': 9852, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
-2026-01-30 22:44:23,804 | PROCESS ENUMERATED | {'pid': 9904, 'ppid': 9268, 'name': 'firefox.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'}
-2026-01-30 22:44:23,808 | PROCESS ENUMERATED | {'pid': 10044, 'ppid': 9268, 'name': 'crashhelper.exe', 'path': 'C:\\Program Files\\Mozilla Firefox\\crashhelper.exe'}
-2026-01-30 22:44:27,728 | SERVICE ENUMERATED | {'name': 'AJRouter', 'display_name': 'AllJoyn Router Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,733 | SERVICE ENUMERATED | {'name': 'ALG', 'display_name': 'Application Layer Gateway Service', 'path': 'C:\\Windows\\System32\\alg.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,740 | SERVICE ENUMERATED | {'name': 'AppIDSvc', 'display_name': 'Application Identity', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,744 | SERVICE ENUMERATED | {'name': 'Appinfo', 'display_name': 'Application Information', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,751 | SERVICE ENUMERATED | {'name': 'AppReadiness', 'display_name': 'App Readiness', 'path': 'C:\\Windows\\System32\\svchost.exe -k AppReadiness -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,762 | SERVICE ENUMERATED | {'name': 'AppXSvc', 'display_name': 'AppX Deployment Service (AppXSVC)', 'path': 'C:\\Windows\\system32\\svchost.exe -k wsappx -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,770 | SERVICE ENUMERATED | {'name': 'AudioEndpointBuilder', 'display_name': 'Windows Audio Endpoint Builder', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,773 | SERVICE ENUMERATED | {'name': 'Audiosrv', 'display_name': 'Windows Audio', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,777 | SERVICE ENUMERATED | {'name': 'autotimesvc', 'display_name': 'Cellular Time', 'path': 'C:\\Windows\\system32\\svchost.exe -k autoTimeSvc', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,783 | SERVICE ENUMERATED | {'name': 'AxInstSV', 'display_name': 'ActiveX Installer (AxInstSV)', 'path': 'C:\\Windows\\system32\\svchost.exe -k AxInstSVGroup', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,786 | SERVICE ENUMERATED | {'name': 'BDESVC', 'display_name': 'BitLocker Drive Encryption Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,790 | SERVICE ENUMERATED | {'name': 'BFE', 'display_name': 'Base Filtering Engine', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNoNetworkFirewall -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,792 | SERVICE ENUMERATED | {'name': 'BITS', 'display_name': 'Background Intelligent Transfer Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,795 | SERVICE ENUMERATED | {'name': 'BrokerInfrastructure', 'display_name': 'Background Tasks Infrastructure Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,799 | SERVICE ENUMERATED | {'name': 'Browser', 'display_name': 'Computer Browser', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,809 | SERVICE ENUMERATED | {'name': 'BTAGService', 'display_name': 'Bluetooth Audio Gateway Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,812 | SERVICE ENUMERATED | {'name': 'BthAvctpSvc', 'display_name': 'AVCTP service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,816 | SERVICE ENUMERATED | {'name': 'bthserv', 'display_name': 'Bluetooth Support Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,822 | SERVICE ENUMERATED | {'name': 'camsvc', 'display_name': 'Capability Access Manager Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k appmodel -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,826 | SERVICE ENUMERATED | {'name': 'CDPSvc', 'display_name': 'Connected Devices Platform Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,829 | SERVICE ENUMERATED | {'name': 'CertPropSvc', 'display_name': 'Certificate Propagation', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,832 | SERVICE ENUMERATED | {'name': 'ClipSVC', 'display_name': 'Client License Service (ClipSVC)', 'path': 'C:\\Windows\\System32\\svchost.exe -k wsappx -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,835 | SERVICE ENUMERATED | {'name': 'COMSysApp', 'display_name': 'COM+ System Application', 'path': 'C:\\Windows\\system32\\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,840 | SERVICE ENUMERATED | {'name': 'CoreMessagingRegistrar', 'display_name': 'CoreMessaging', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNoNetwork -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,844 | SERVICE ENUMERATED | {'name': 'CryptSvc', 'display_name': 'Cryptographic Services', 'path': 'C:\\Windows\\system32\\svchost.exe -k NetworkService -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,847 | SERVICE ENUMERATED | {'name': 'DcomLaunch', 'display_name': 'DCOM Server Process Launcher', 'path': 'C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,851 | SERVICE ENUMERATED | {'name': 'dcsvc', 'display_name': 'Declared Configuration(DC) service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,857 | SERVICE ENUMERATED | {'name': 'defragsvc', 'display_name': 'Optimize drives', 'path': 'C:\\Windows\\system32\\svchost.exe -k defragsvc', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,867 | SERVICE ENUMERATED | {'name': 'DeviceAssociationService', 'display_name': 'Device Association Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,879 | SERVICE ENUMERATED | {'name': 'DeviceInstall', 'display_name': 'Device Install Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,883 | SERVICE ENUMERATED | {'name': 'DevQueryBroker', 'display_name': 'DevQuery Background Discovery Broker', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,889 | SERVICE ENUMERATED | {'name': 'Dhcp', 'display_name': 'DHCP Client', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,896 | SERVICE ENUMERATED | {'name': 'diagnosticshub.standardcollector.service', 'display_name': 'Microsoft (R) Diagnostics Hub Standard Collector Service', 'path': 'C:\\Windows\\system32\\DiagSvcs\\DiagnosticsHub.StandardCollector.Service.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,901 | SERVICE ENUMERATED | {'name': 'diagsvc', 'display_name': 'Diagnostic Execution Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k diagnostics', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,915 | SERVICE ENUMERATED | {'name': 'DiagTrack', 'display_name': 'Connected User Experiences and Telemetry', 'path': 'C:\\Windows\\System32\\svchost.exe -k utcsvc -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,918 | SERVICE ENUMERATED | {'name': 'DispBrokerDesktopSvc', 'display_name': 'Display Policy Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,921 | SERVICE ENUMERATED | {'name': 'DisplayEnhancementService', 'display_name': 'Display Enhancement Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,927 | SERVICE ENUMERATED | {'name': 'DmEnrollmentSvc', 'display_name': 'Device Management Enrollment Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,937 | SERVICE ENUMERATED | {'name': 'dmwappushservice', 'display_name': 'Device Management Wireless Application Protocol (WAP) Push message Routing Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,943 | SERVICE ENUMERATED | {'name': 'Dnscache', 'display_name': 'DNS Client', 'path': 'C:\\Windows\\system32\\svchost.exe -k NetworkService -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,953 | SERVICE ENUMERATED | {'name': 'DoSvc', 'display_name': 'Delivery Optimization', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,957 | SERVICE ENUMERATED | {'name': 'dot3svc', 'display_name': 'Wired AutoConfig', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,963 | SERVICE ENUMERATED | {'name': 'DPS', 'display_name': 'Diagnostic Policy Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNoNetwork -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:27,978 | SERVICE ENUMERATED | {'name': 'DsmSvc', 'display_name': 'Device Setup Manager', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:27,990 | SERVICE ENUMERATED | {'name': 'DsSvc', 'display_name': 'Data Sharing Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,002 | SERVICE ENUMERATED | {'name': 'DusmSvc', 'display_name': 'Data Usage', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,031 | SERVICE ENUMERATED | {'name': 'Eaphost', 'display_name': 'Extensible Authentication Protocol', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,035 | SERVICE ENUMERATED | {'name': 'edgeupdate', 'display_name': 'Microsoft Edge Update Service (edgeupdate)', 'path': '"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe" /svc', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,057 | SERVICE ENUMERATED | {'name': 'edgeupdatem', 'display_name': 'Microsoft Edge Update Service (edgeupdatem)', 'path': '"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe" /medsvc', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,071 | SERVICE ENUMERATED | {'name': 'EFS', 'display_name': 'Encrypting File System (EFS)', 'path': 'C:\\Windows\\System32\\lsass.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,080 | SERVICE ENUMERATED | {'name': 'embeddedmode', 'display_name': 'Embedded Mode', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,088 | SERVICE ENUMERATED | {'name': 'EntAppSvc', 'display_name': 'Enterprise App Management Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k appmodel -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,100 | SERVICE ENUMERATED | {'name': 'EventLog', 'display_name': 'Windows Event Log', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,113 | SERVICE ENUMERATED | {'name': 'EventSystem', 'display_name': 'COM+ Event System', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,120 | SERVICE ENUMERATED | {'name': 'Fax', 'display_name': 'Fax', 'path': 'C:\\Windows\\system32\\fxssvc.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,134 | SERVICE ENUMERATED | {'name': 'fdPHost', 'display_name': 'Function Discovery Provider Host', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,139 | SERVICE ENUMERATED | {'name': 'FDResPub', 'display_name': 'Function Discovery Resource Publication', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,145 | SERVICE ENUMERATED | {'name': 'fhsvc', 'display_name': 'File History Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,149 | SERVICE ENUMERATED | {'name': 'FontCache', 'display_name': 'Windows Font Cache Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,170 | SERVICE ENUMERATED | {'name': 'FrameServer', 'display_name': 'Windows Camera Frame Server', 'path': 'C:\\Windows\\System32\\svchost.exe -k Camera', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,177 | SERVICE ENUMERATED | {'name': 'GameInputSvc', 'display_name': 'GameInput Service', 'path': 'C:\\Windows\\System32\\GameInputSvc.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,185 | SERVICE ENUMERATED | {'name': 'gpsvc', 'display_name': 'Group Policy Client', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,191 | SERVICE ENUMERATED | {'name': 'GraphicsPerfSvc', 'display_name': 'GraphicsPerfSvc', 'path': 'C:\\Windows\\System32\\svchost.exe -k GraphicsPerfSvcGroup', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,198 | SERVICE ENUMERATED | {'name': 'hidserv', 'display_name': 'Human Interface Device Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,203 | SERVICE ENUMERATED | {'name': 'HvHost', 'display_name': 'HV Host Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,207 | SERVICE ENUMERATED | {'name': 'icssvc', 'display_name': 'Windows Mobile Hotspot Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,236 | SERVICE ENUMERATED | {'name': 'IKEEXT', 'display_name': 'IKE and AuthIP IPsec Keying Modules', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,246 | SERVICE ENUMERATED | {'name': 'InstallService', 'display_name': 'Microsoft Store Install Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,251 | SERVICE ENUMERATED | {'name': 'iphlpsvc', 'display_name': 'IP Helper', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetSvcs -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,263 | SERVICE ENUMERATED | {'name': 'IpxlatCfgSvc', 'display_name': 'IP Translation Configuration Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,291 | SERVICE ENUMERATED | {'name': 'KeyIso', 'display_name': 'CNG Key Isolation', 'path': 'C:\\Windows\\system32\\lsass.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,298 | SERVICE ENUMERATED | {'name': 'KtmRm', 'display_name': 'KtmRm for Distributed Transaction Coordinator', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,304 | SERVICE ENUMERATED | {'name': 'LanmanServer', 'display_name': 'Server', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,312 | SERVICE ENUMERATED | {'name': 'LanmanWorkstation', 'display_name': 'Workstation', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,319 | SERVICE ENUMERATED | {'name': 'lfsvc', 'display_name': 'Geolocation Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,325 | SERVICE ENUMERATED | {'name': 'LicenseManager', 'display_name': 'Windows License Manager Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,340 | SERVICE ENUMERATED | {'name': 'lltdsvc', 'display_name': 'Link-Layer Topology Discovery Mapper', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,350 | SERVICE ENUMERATED | {'name': 'lmhosts', 'display_name': 'TCP/IP NetBIOS Helper', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,360 | SERVICE ENUMERATED | {'name': 'LSM', 'display_name': 'LSM', 'path': '', 'start_mode': 'Unknown'}
-2026-01-30 22:44:28,366 | SERVICE ENUMERATED | {'name': 'LxpSvc', 'display_name': 'Language Experience Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,370 | SERVICE ENUMERATED | {'name': 'MapsBroker', 'display_name': 'Downloaded Maps Manager', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,377 | SERVICE ENUMERATED | {'name': 'McpManagementService', 'display_name': 'McpManagementService', 'path': 'C:\\Windows\\system32\\svchost.exe -k McpManagementServiceGroup', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,380 | SERVICE ENUMERATED | {'name': 'MDCoreSvc', 'display_name': 'Microsoft Defender Core Service', 'path': '"C:\\ProgramData\\Microsoft\\Windows Defender\\platform\\4.18.25110.6-0\\MpDefenderCoreService.exe"', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,383 | SERVICE ENUMERATED | {'name': 'MicrosoftEdgeElevationService', 'display_name': 'Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)', 'path': '"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\144.0.3719.104\\elevation_service.exe"', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,387 | SERVICE ENUMERATED | {'name': 'MixedRealityOpenXRSvc', 'display_name': 'Windows Mixed Reality OpenXR Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,390 | SERVICE ENUMERATED | {'name': 'MozillaMaintenance', 'display_name': 'Mozilla Maintenance Service', 'path': '"C:\\Program Files (x86)\\Mozilla Maintenance Service\\maintenanceservice.exe"', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,393 | SERVICE ENUMERATED | {'name': 'mpssvc', 'display_name': 'Windows Defender Firewall', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNoNetworkFirewall -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,396 | SERVICE ENUMERATED | {'name': 'MSDTC', 'display_name': 'Distributed Transaction Coordinator', 'path': 'C:\\Windows\\System32\\msdtc.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,403 | SERVICE ENUMERATED | {'name': 'MSiSCSI', 'display_name': 'Microsoft iSCSI Initiator Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,411 | SERVICE ENUMERATED | {'name': 'msiserver', 'display_name': 'Windows Installer', 'path': 'C:\\Windows\\system32\\msiexec.exe /V', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,418 | SERVICE ENUMERATED | {'name': 'NaturalAuthentication', 'display_name': 'Natural Authentication', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,435 | SERVICE ENUMERATED | {'name': 'NcaSvc', 'display_name': 'Network Connectivity Assistant', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetSvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,438 | SERVICE ENUMERATED | {'name': 'NcbService', 'display_name': 'Network Connection Broker', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,449 | SERVICE ENUMERATED | {'name': 'NcdAutoSetup', 'display_name': 'Network Connected Devices Auto-Setup', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNoNetwork -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,459 | SERVICE ENUMERATED | {'name': 'Netlogon', 'display_name': 'Netlogon', 'path': 'C:\\Windows\\system32\\lsass.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,475 | SERVICE ENUMERATED | {'name': 'Netman', 'display_name': 'Network Connections', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,489 | SERVICE ENUMERATED | {'name': 'netprofm', 'display_name': 'Network List Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,503 | SERVICE ENUMERATED | {'name': 'NetSetupSvc', 'display_name': 'NetSetupSvc', 'path': '', 'start_mode': 'Unknown'}
-2026-01-30 22:44:28,512 | SERVICE ENUMERATED | {'name': 'NetTcpPortSharing', 'display_name': 'Net.Tcp Port Sharing Service', 'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\SMSvcHost.exe', 'start_mode': 'Disabled'}
-2026-01-30 22:44:28,521 | SERVICE ENUMERATED | {'name': 'NgcCtnrSvc', 'display_name': 'Microsoft Passport Container', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,524 | SERVICE ENUMERATED | {'name': 'NgcSvc', 'display_name': 'Microsoft Passport', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,527 | SERVICE ENUMERATED | {'name': 'NlaSvc', 'display_name': 'Network Location Awareness', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,530 | SERVICE ENUMERATED | {'name': 'nsi', 'display_name': 'Network Store Interface Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,533 | SERVICE ENUMERATED | {'name': 'p2pimsvc', 'display_name': 'Peer Networking Identity Manager', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServicePeerNet', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,536 | SERVICE ENUMERATED | {'name': 'p2psvc', 'display_name': 'Peer Networking Grouping', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServicePeerNet', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,539 | SERVICE ENUMERATED | {'name': 'PcaSvc', 'display_name': 'Program Compatibility Assistant Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,542 | SERVICE ENUMERATED | {'name': 'perceptionsimulation', 'display_name': 'Windows Perception Simulation Service', 'path': 'C:\\Windows\\system32\\PerceptionSimulation\\PerceptionSimulationService.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,548 | SERVICE ENUMERATED | {'name': 'PerfHost', 'display_name': 'Performance Counter DLL Host', 'path': 'C:\\Windows\\SysWow64\\perfhost.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,552 | SERVICE ENUMERATED | {'name': 'PhoneSvc', 'display_name': 'Phone Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,555 | SERVICE ENUMERATED | {'name': 'pla', 'display_name': 'Performance Logs & Alerts', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNoNetwork -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,558 | SERVICE ENUMERATED | {'name': 'PlugPlay', 'display_name': 'Plug and Play', 'path': 'C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,565 | SERVICE ENUMERATED | {'name': 'PNRPAutoReg', 'display_name': 'PNRP Machine Name Publication Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServicePeerNet', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,569 | SERVICE ENUMERATED | {'name': 'PNRPsvc', 'display_name': 'Peer Name Resolution Protocol', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServicePeerNet', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,575 | SERVICE ENUMERATED | {'name': 'PolicyAgent', 'display_name': 'IPsec Policy Agent', 'path': 'C:\\Windows\\system32\\svchost.exe -k NetworkServiceNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,582 | SERVICE ENUMERATED | {'name': 'Power', 'display_name': 'Power', 'path': 'C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,586 | SERVICE ENUMERATED | {'name': 'PrintNotify', 'display_name': 'Printer Extensions and Notifications', 'path': 'C:\\Windows\\system32\\svchost.exe -k print', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,589 | SERVICE ENUMERATED | {'name': 'ProfSvc', 'display_name': 'User Profile Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,593 | SERVICE ENUMERATED | {'name': 'PushToInstall', 'display_name': 'Windows PushToInstall Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,596 | SERVICE ENUMERATED | {'name': 'QWAVE', 'display_name': 'Quality Windows Audio Video Experience', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,600 | SERVICE ENUMERATED | {'name': 'RasAuto', 'display_name': 'Remote Access Auto Connection Manager', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,603 | SERVICE ENUMERATED | {'name': 'RasMan', 'display_name': 'Remote Access Connection Manager', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,608 | SERVICE ENUMERATED | {'name': 'RemoteAccess', 'display_name': 'Routing and Remote Access', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs', 'start_mode': 'Disabled'}
-2026-01-30 22:44:28,612 | SERVICE ENUMERATED | {'name': 'RemoteRegistry', 'display_name': 'Remote Registry', 'path': 'C:\\Windows\\system32\\svchost.exe -k localService -p', 'start_mode': 'Disabled'}
-2026-01-30 22:44:28,615 | SERVICE ENUMERATED | {'name': 'RetailDemo', 'display_name': 'Retail Demo Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k rdxgroup', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,618 | SERVICE ENUMERATED | {'name': 'RmSvc', 'display_name': 'Radio Management Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,622 | SERVICE ENUMERATED | {'name': 'RpcEptMapper', 'display_name': 'RPC Endpoint Mapper', 'path': 'C:\\Windows\\system32\\svchost.exe -k RPCSS -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,625 | SERVICE ENUMERATED | {'name': 'RpcLocator', 'display_name': 'Remote Procedure Call (RPC) Locator', 'path': 'C:\\Windows\\system32\\locator.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,628 | SERVICE ENUMERATED | {'name': 'RpcSs', 'display_name': 'Remote Procedure Call (RPC)', 'path': 'C:\\Windows\\system32\\svchost.exe -k rpcss -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,631 | SERVICE ENUMERATED | {'name': 'SamSs', 'display_name': 'Security Accounts Manager', 'path': 'C:\\Windows\\system32\\lsass.exe', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,634 | SERVICE ENUMERATED | {'name': 'SCardSvr', 'display_name': 'Smart Card', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,637 | SERVICE ENUMERATED | {'name': 'ScDeviceEnum', 'display_name': 'Smart Card Device Enumeration Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,640 | SERVICE ENUMERATED | {'name': 'Schedule', 'display_name': 'Task Scheduler', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,643 | SERVICE ENUMERATED | {'name': 'SCPolicySvc', 'display_name': 'Smart Card Removal Policy', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,646 | SERVICE ENUMERATED | {'name': 'SDRSVC', 'display_name': 'Windows Backup', 'path': 'C:\\Windows\\system32\\svchost.exe -k SDRSVC', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,649 | SERVICE ENUMERATED | {'name': 'seclogon', 'display_name': 'Secondary Logon', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,652 | SERVICE ENUMERATED | {'name': 'SecurityHealthService', 'display_name': 'Windows Security Service', 'path': 'C:\\Windows\\system32\\SecurityHealthService.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,655 | SERVICE ENUMERATED | {'name': 'SEMgrSvc', 'display_name': 'Payments and NFC/SE Manager', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,658 | SERVICE ENUMERATED | {'name': 'SENS', 'display_name': 'System Event Notification Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,661 | SERVICE ENUMERATED | {'name': 'SensorDataService', 'display_name': 'Sensor Data Service', 'path': 'C:\\Windows\\System32\\SensorDataService.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,664 | SERVICE ENUMERATED | {'name': 'SensorService', 'display_name': 'Sensor Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,668 | SERVICE ENUMERATED | {'name': 'SensrSvc', 'display_name': 'Sensor Monitoring Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,671 | SERVICE ENUMERATED | {'name': 'SessionEnv', 'display_name': 'Remote Desktop Configuration', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,674 | SERVICE ENUMERATED | {'name': 'SharedAccess', 'display_name': 'Internet Connection Sharing (ICS)', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,680 | SERVICE ENUMERATED | {'name': 'SharedRealitySvc', 'display_name': 'Spatial Data Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,685 | SERVICE ENUMERATED | {'name': 'ShellHWDetection', 'display_name': 'Shell Hardware Detection', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,689 | SERVICE ENUMERATED | {'name': 'shpamsvc', 'display_name': 'Shared PC Account Manager', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Disabled'}
-2026-01-30 22:44:28,696 | SERVICE ENUMERATED | {'name': 'smphost', 'display_name': 'Microsoft Storage Spaces SMP', 'path': 'C:\\Windows\\System32\\svchost.exe -k smphost', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,704 | SERVICE ENUMERATED | {'name': 'SmsRouter', 'display_name': 'Microsoft Windows SMS Router Service.', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,711 | SERVICE ENUMERATED | {'name': 'SNMPTRAP', 'display_name': 'SNMP Trap', 'path': 'C:\\Windows\\System32\\snmptrap.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,716 | SERVICE ENUMERATED | {'name': 'spectrum', 'display_name': 'Windows Perception Service', 'path': 'C:\\Windows\\system32\\spectrum.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,720 | SERVICE ENUMERATED | {'name': 'Spooler', 'display_name': 'Print Spooler', 'path': 'C:\\Windows\\System32\\spoolsv.exe', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,723 | SERVICE ENUMERATED | {'name': 'sppsvc', 'display_name': 'Software Protection', 'path': 'C:\\Windows\\system32\\sppsvc.exe', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,727 | SERVICE ENUMERATED | {'name': 'SSDPSRV', 'display_name': 'SSDP Discovery', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,730 | SERVICE ENUMERATED | {'name': 'ssh-agent', 'display_name': 'OpenSSH Authentication Agent', 'path': 'C:\\Windows\\System32\\OpenSSH\\ssh-agent.exe', 'start_mode': 'Disabled'}
-2026-01-30 22:44:28,735 | SERVICE ENUMERATED | {'name': 'SstpSvc', 'display_name': 'Secure Socket Tunneling Protocol Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,738 | SERVICE ENUMERATED | {'name': 'StateRepository', 'display_name': 'State Repository Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k appmodel -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,744 | SERVICE ENUMERATED | {'name': 'stisvc', 'display_name': 'Windows Image Acquisition (WIA)', 'path': 'C:\\Windows\\system32\\svchost.exe -k imgsvc', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,747 | SERVICE ENUMERATED | {'name': 'StorSvc', 'display_name': 'Storage Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,752 | SERVICE ENUMERATED | {'name': 'svsvc', 'display_name': 'Spot Verifier', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,761 | SERVICE ENUMERATED | {'name': 'swprv', 'display_name': 'Microsoft Software Shadow Copy Provider', 'path': 'C:\\Windows\\System32\\svchost.exe -k swprv', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,764 | SERVICE ENUMERATED | {'name': 'SysMain', 'display_name': 'SysMain', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,768 | SERVICE ENUMERATED | {'name': 'SystemEventsBroker', 'display_name': 'System Events Broker', 'path': 'C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,772 | SERVICE ENUMERATED | {'name': 'TabletInputService', 'display_name': 'Touch Keyboard and Handwriting Panel Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,779 | SERVICE ENUMERATED | {'name': 'TapiSrv', 'display_name': 'Telephony', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,784 | SERVICE ENUMERATED | {'name': 'TermService', 'display_name': 'Remote Desktop Services', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,787 | SERVICE ENUMERATED | {'name': 'TestBadService', 'display_name': 'TestBadService', 'path': 'C:\\Users\\parth\\AppData\\Local\\Temp\\fake_service.exe', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,790 | SERVICE ENUMERATED | {'name': 'Themes', 'display_name': 'Themes', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,793 | SERVICE ENUMERATED | {'name': 'TieringEngineService', 'display_name': 'Storage Tiers Management', 'path': 'C:\\Windows\\system32\\TieringEngineService.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,796 | SERVICE ENUMERATED | {'name': 'TimeBrokerSvc', 'display_name': 'Time Broker', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,799 | SERVICE ENUMERATED | {'name': 'TokenBroker', 'display_name': 'Web Account Manager', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,802 | SERVICE ENUMERATED | {'name': 'TrkWks', 'display_name': 'Distributed Link Tracking Client', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,808 | SERVICE ENUMERATED | {'name': 'TroubleshootingSvc', 'display_name': 'Recommended Troubleshooting Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,812 | SERVICE ENUMERATED | {'name': 'TrustedInstaller', 'display_name': 'Windows Modules Installer', 'path': 'C:\\Windows\\servicing\\TrustedInstaller.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,816 | SERVICE ENUMERATED | {'name': 'tzautoupdate', 'display_name': 'Auto Time Zone Updater', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Disabled'}
-2026-01-30 22:44:28,819 | SERVICE ENUMERATED | {'name': 'uhssvc', 'display_name': 'Microsoft Update Health Service', 'path': '"C:\\Program Files\\Microsoft Update Health Tools\\uhssvc.exe"', 'start_mode': 'Disabled'}
-2026-01-30 22:44:28,824 | SERVICE ENUMERATED | {'name': 'UmRdpService', 'display_name': 'Remote Desktop Services UserMode Port Redirector', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,829 | SERVICE ENUMERATED | {'name': 'upnphost', 'display_name': 'UPnP Device Host', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,847 | SERVICE ENUMERATED | {'name': 'UserManager', 'display_name': 'User Manager', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,856 | SERVICE ENUMERATED | {'name': 'UsoSvc', 'display_name': 'Update Orchestrator Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,865 | SERVICE ENUMERATED | {'name': 'VacSvc', 'display_name': 'Volumetric Audio Compositor Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,869 | SERVICE ENUMERATED | {'name': 'VaultSvc', 'display_name': 'Credential Manager', 'path': 'C:\\Windows\\system32\\lsass.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,872 | SERVICE ENUMERATED | {'name': 'vds', 'display_name': 'Virtual Disk', 'path': 'C:\\Windows\\System32\\vds.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,876 | SERVICE ENUMERATED | {'name': 'vmicguestinterface', 'display_name': 'Hyper-V Guest Service Interface', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,882 | SERVICE ENUMERATED | {'name': 'vmicheartbeat', 'display_name': 'Hyper-V Heartbeat Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k ICService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,888 | SERVICE ENUMERATED | {'name': 'vmickvpexchange', 'display_name': 'Hyper-V Data Exchange Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,892 | SERVICE ENUMERATED | {'name': 'vmicrdv', 'display_name': 'Hyper-V Remote Desktop Virtualization Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k ICService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,897 | SERVICE ENUMERATED | {'name': 'vmicshutdown', 'display_name': 'Hyper-V Guest Shutdown Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,901 | SERVICE ENUMERATED | {'name': 'vmictimesync', 'display_name': 'Hyper-V Time Synchronization Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,905 | SERVICE ENUMERATED | {'name': 'vmicvmsession', 'display_name': 'Hyper-V PowerShell Direct Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,912 | SERVICE ENUMERATED | {'name': 'vmicvss', 'display_name': 'Hyper-V Volume Shadow Copy Requestor', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,917 | SERVICE ENUMERATED | {'name': 'VSInstallerElevationService', 'display_name': 'Visual Studio Installer Elevation Service', 'path': '"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\VSInstallerElevationService.exe"', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,921 | SERVICE ENUMERATED | {'name': 'VSS', 'display_name': 'Volume Shadow Copy', 'path': 'C:\\Windows\\system32\\vssvc.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,931 | SERVICE ENUMERATED | {'name': 'W32Time', 'display_name': 'Windows Time', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,936 | SERVICE ENUMERATED | {'name': 'WaaSMedicSvc', 'display_name': 'Windows Update Medic Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k wusvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,943 | SERVICE ENUMERATED | {'name': 'WalletService', 'display_name': 'WalletService', 'path': 'C:\\Windows\\System32\\svchost.exe -k appmodel -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,948 | SERVICE ENUMERATED | {'name': 'WarpJITSvc', 'display_name': 'WarpJITSvc', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,952 | SERVICE ENUMERATED | {'name': 'wbengine', 'display_name': 'Block Level Backup Engine Service', 'path': '"C:\\Windows\\system32\\wbengine.exe"', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,956 | SERVICE ENUMERATED | {'name': 'WbioSrvc', 'display_name': 'Windows Biometric Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k WbioSvcGroup', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,959 | SERVICE ENUMERATED | {'name': 'Wcmsvc', 'display_name': 'Windows Connection Manager', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:28,962 | SERVICE ENUMERATED | {'name': 'wcncsvc', 'display_name': 'Windows Connect Now - Config Registrar', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,965 | SERVICE ENUMERATED | {'name': 'WdiServiceHost', 'display_name': 'Diagnostic Service Host', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,968 | SERVICE ENUMERATED | {'name': 'WdiSystemHost', 'display_name': 'Diagnostic System Host', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,971 | SERVICE ENUMERATED | {'name': 'WdNisSvc', 'display_name': 'Microsoft Defender Antivirus Network Inspection Service', 'path': '"C:\\ProgramData\\Microsoft\\Windows Defender\\platform\\4.18.25110.6-0\\NisSrv.exe"', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,974 | SERVICE ENUMERATED | {'name': 'WebClient', 'display_name': 'WebClient', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,977 | SERVICE ENUMERATED | {'name': 'Wecsvc', 'display_name': 'Windows Event Collector', 'path': 'C:\\Windows\\system32\\svchost.exe -k NetworkService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,980 | SERVICE ENUMERATED | {'name': 'WEPHOSTSVC', 'display_name': 'Windows Encryption Provider Host Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k WepHostSvcGroup', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,986 | SERVICE ENUMERATED | {'name': 'wercplsupport', 'display_name': 'Problem Reports Control Panel Support', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,990 | SERVICE ENUMERATED | {'name': 'WerSvc', 'display_name': 'Windows Error Reporting Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k WerSvcGroup', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,993 | SERVICE ENUMERATED | {'name': 'WFDSConMgrSvc', 'display_name': 'Wi-Fi Direct Services Connection Manager Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,996 | SERVICE ENUMERATED | {'name': 'WiaRpc', 'display_name': 'Still Image Acquisition Events', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:28,999 | SERVICE ENUMERATED | {'name': 'WinDefend', 'display_name': 'Microsoft Defender Antivirus Service', 'path': '"C:\\ProgramData\\Microsoft\\Windows Defender\\platform\\4.18.25110.6-0\\MsMpEng.exe"', 'start_mode': 'Auto'}
-2026-01-30 22:44:29,004 | SERVICE ENUMERATED | {'name': 'WinHttpAutoProxySvc', 'display_name': 'WinHTTP Web Proxy Auto-Discovery Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,016 | SERVICE ENUMERATED | {'name': 'Winmgmt', 'display_name': 'Windows Management Instrumentation', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:29,025 | SERVICE ENUMERATED | {'name': 'WinRM', 'display_name': 'Windows Remote Management (WS-Management)', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,030 | SERVICE ENUMERATED | {'name': 'wisvc', 'display_name': 'Windows Insider Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,036 | SERVICE ENUMERATED | {'name': 'WlanSvc', 'display_name': 'WLAN AutoConfig', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,041 | SERVICE ENUMERATED | {'name': 'wlidsvc', 'display_name': 'Microsoft Account Sign-in Assistant', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,046 | SERVICE ENUMERATED | {'name': 'wlpasvc', 'display_name': 'Local Profile Assistant Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,053 | SERVICE ENUMERATED | {'name': 'WManSvc', 'display_name': 'Windows Management Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,061 | SERVICE ENUMERATED | {'name': 'wmiApSrv', 'display_name': 'WMI Performance Adapter', 'path': 'C:\\Windows\\system32\\wbem\\WmiApSrv.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,064 | SERVICE ENUMERATED | {'name': 'WMPNetworkSvc', 'display_name': 'Windows Media Player Network Sharing Service', 'path': '"C:\\Program Files\\Windows Media Player\\wmpnetwk.exe"', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,068 | SERVICE ENUMERATED | {'name': 'workfolderssvc', 'display_name': 'Work Folders', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,071 | SERVICE ENUMERATED | {'name': 'WpcMonSvc', 'display_name': 'Parental Controls', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,075 | SERVICE ENUMERATED | {'name': 'WPDBusEnum', 'display_name': 'Portable Device Enumerator Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,078 | SERVICE ENUMERATED | {'name': 'WpnService', 'display_name': 'Windows Push Notifications System Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:29,081 | SERVICE ENUMERATED | {'name': 'wscsvc', 'display_name': 'Security Center', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Auto'}
-2026-01-30 22:44:29,085 | SERVICE ENUMERATED | {'name': 'WSearch', 'display_name': 'Windows Search', 'path': 'C:\\Windows\\system32\\SearchIndexer.exe /Embedding', 'start_mode': 'Auto'}
-2026-01-30 22:44:29,088 | SERVICE ENUMERATED | {'name': 'wuauserv', 'display_name': 'Windows Update', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,092 | SERVICE ENUMERATED | {'name': 'WwanSvc', 'display_name': 'WWAN AutoConfig', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,095 | SERVICE ENUMERATED | {'name': 'XblAuthManager', 'display_name': 'Xbox Live Auth Manager', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,098 | SERVICE ENUMERATED | {'name': 'XblGameSave', 'display_name': 'Xbox Live Game Save', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,102 | SERVICE ENUMERATED | {'name': 'XboxGipSvc', 'display_name': 'Xbox Accessory Management Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,105 | SERVICE ENUMERATED | {'name': 'XboxNetApiSvc', 'display_name': 'Xbox Live Networking Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,109 | SERVICE ENUMERATED | {'name': 'AarSvc_38815', 'display_name': 'Agent Activation Runtime_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k AarSvcGroup -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,117 | SERVICE ENUMERATED | {'name': 'BcastDVRUserService_38815', 'display_name': 'GameDVR and Broadcast User Service_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k BcastDVRUserService', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,120 | SERVICE ENUMERATED | {'name': 'BluetoothUserService_38815', 'display_name': 'Bluetooth User Support Service_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k BthAppGroup -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,123 | SERVICE ENUMERATED | {'name': 'CaptureService_38815', 'display_name': 'CaptureService_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,126 | SERVICE ENUMERATED | {'name': 'cbdhsvc_38815', 'display_name': 'Clipboard User Service_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k ClipboardSvcGroup -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,129 | SERVICE ENUMERATED | {'name': 'CDPUserSvc_38815', 'display_name': 'Connected Devices Platform User Service_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Auto'}
-2026-01-30 22:44:29,132 | SERVICE ENUMERATED | {'name': 'ConsentUxUserSvc_38815', 'display_name': 'ConsentUX_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k DevicesFlow', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,139 | SERVICE ENUMERATED | {'name': 'CredentialEnrollmentManagerUserSvc_38815', 'display_name': 'CredentialEnrollmentManagerUserSvc_38815', 'path': 'C:\\Windows\\system32\\CredentialEnrollmentManager.exe', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,143 | SERVICE ENUMERATED | {'name': 'DeviceAssociationBrokerSvc_38815', 'display_name': 'DeviceAssociationBroker_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k DevicesFlow -p', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,146 | SERVICE ENUMERATED | {'name': 'DevicePickerUserSvc_38815', 'display_name': 'DevicePicker_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k DevicesFlow', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,149 | SERVICE ENUMERATED | {'name': 'DevicesFlowUserSvc_38815', 'display_name': 'DevicesFlow_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k DevicesFlow', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,154 | SERVICE ENUMERATED | {'name': 'MessagingService_38815', 'display_name': 'MessagingService_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,160 | SERVICE ENUMERATED | {'name': 'OneSyncSvc_38815', 'display_name': 'Sync Host_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Auto'}
-2026-01-30 22:44:29,164 | SERVICE ENUMERATED | {'name': 'PimIndexMaintenanceSvc_38815', 'display_name': 'Contact Data_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,248 | SERVICE ENUMERATED | {'name': 'PrintWorkflowUserSvc_38815', 'display_name': 'PrintWorkflow_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k PrintWorkflow', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,253 | SERVICE ENUMERATED | {'name': 'UdkUserSvc_38815', 'display_name': 'Udk User Service_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k UdkSvcGroup', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,257 | SERVICE ENUMERATED | {'name': 'UnistoreSvc_38815', 'display_name': 'User Data Storage_38815', 'path': 'C:\\Windows\\System32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,261 | SERVICE ENUMERATED | {'name': 'UserDataSvc_38815', 'display_name': 'User Data Access_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Manual'}
-2026-01-30 22:44:29,265 | SERVICE ENUMERATED | {'name': 'WpnUserService_38815', 'display_name': 'Windows Push Notifications User Service_38815', 'path': 'C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Auto'}
+2026-02-01 21:48:14,954 | PROCESS ENUMERATED | {'pid': 0, 'ppid': 0, 'name': 'System Idle Process', 'path': None}
+2026-02-01 21:48:14,986 | PROCESS ENUMERATED | {'pid': 4, 'ppid': 0, 'name': 'System', 'path': ''}
+2026-02-01 21:48:15,078 | PROCESS ENUMERATED | {'pid': 108, 'ppid': 4, 'name': 'Registry', 'path': 'Registry'}
+2026-02-01 21:48:15,094 | PROCESS ENUMERATED | {'pid': 364, 'ppid': 4, 'name': 'smss.exe', 'path': 'C:\\Windows\\System32\\smss.exe'}
+2026-02-01 21:48:15,121 | PROCESS ENUMERATED | {'pid': 416, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,142 | PROCESS ENUMERATED | {'pid': 464, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,171 | PROCESS ENUMERATED | {'pid': 468, 'ppid': 456, 'name': 'csrss.exe', 'path': 'C:\\Windows\\System32\\csrss.exe'}
+2026-02-01 21:48:15,203 | PROCESS ENUMERATED | {'pid': 536, 'ppid': 640, 'name': 'dwm.exe', 'path': 'C:\\Windows\\System32\\dwm.exe'}
+2026-02-01 21:48:15,233 | PROCESS ENUMERATED | {'pid': 544, 'ppid': 456, 'name': 'wininit.exe', 'path': 'C:\\Windows\\System32\\wininit.exe'}
+2026-02-01 21:48:15,260 | PROCESS ENUMERATED | {'pid': 552, 'ppid': 536, 'name': 'csrss.exe', 'path': 'C:\\Windows\\System32\\csrss.exe'}
+2026-02-01 21:48:15,270 | PROCESS ENUMERATED | {'pid': 640, 'ppid': 536, 'name': 'winlogon.exe', 'path': 'C:\\Windows\\System32\\winlogon.exe'}
+2026-02-01 21:48:15,282 | PROCESS ENUMERATED | {'pid': 684, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,296 | PROCESS ENUMERATED | {'pid': 688, 'ppid': 544, 'name': 'services.exe', 'path': 'C:\\Windows\\System32\\services.exe'}
+2026-02-01 21:48:15,310 | PROCESS ENUMERATED | {'pid': 696, 'ppid': 544, 'name': 'lsass.exe', 'path': 'C:\\Windows\\System32\\lsass.exe'}
+2026-02-01 21:48:15,321 | PROCESS ENUMERATED | {'pid': 764, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,329 | PROCESS ENUMERATED | {'pid': 824, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,339 | PROCESS ENUMERATED | {'pid': 848, 'ppid': 640, 'name': 'fontdrvhost.exe', 'path': 'C:\\Windows\\System32\\fontdrvhost.exe'}
+2026-02-01 21:48:15,347 | PROCESS ENUMERATED | {'pid': 860, 'ppid': 544, 'name': 'fontdrvhost.exe', 'path': 'C:\\Windows\\System32\\fontdrvhost.exe'}
+2026-02-01 21:48:15,356 | PROCESS ENUMERATED | {'pid': 868, 'ppid': 824, 'name': 'ShellExperienceHost.exe', 'path': 'C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe'}
+2026-02-01 21:48:15,362 | PROCESS ENUMERATED | {'pid': 948, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,381 | PROCESS ENUMERATED | {'pid': 996, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,405 | PROCESS ENUMERATED | {'pid': 1076, 'ppid': 5236, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'}
+2026-02-01 21:48:15,447 | PROCESS ENUMERATED | {'pid': 1116, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,487 | PROCESS ENUMERATED | {'pid': 1204, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,541 | PROCESS ENUMERATED | {'pid': 1236, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,562 | PROCESS ENUMERATED | {'pid': 1300, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,595 | PROCESS ENUMERATED | {'pid': 1336, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,623 | PROCESS ENUMERATED | {'pid': 1348, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,641 | PROCESS ENUMERATED | {'pid': 1352, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,655 | PROCESS ENUMERATED | {'pid': 1360, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,673 | PROCESS ENUMERATED | {'pid': 1368, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,686 | PROCESS ENUMERATED | {'pid': 1392, 'ppid': 5236, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'}
+2026-02-01 21:48:15,702 | PROCESS ENUMERATED | {'pid': 1456, 'ppid': 5356, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+2026-02-01 21:48:15,733 | PROCESS ENUMERATED | {'pid': 1504, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,760 | PROCESS ENUMERATED | {'pid': 1544, 'ppid': 4, 'name': 'MemCompression', 'path': 'MemCompression'}
+2026-02-01 21:48:15,785 | PROCESS ENUMERATED | {'pid': 1560, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,804 | PROCESS ENUMERATED | {'pid': 1580, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,824 | PROCESS ENUMERATED | {'pid': 1588, 'ppid': 5108, 'name': 'powershell.exe', 'path': 'C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe'}
+2026-02-01 21:48:15,837 | PROCESS ENUMERATED | {'pid': 1596, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,855 | PROCESS ENUMERATED | {'pid': 1656, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,885 | PROCESS ENUMERATED | {'pid': 1724, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,903 | PROCESS ENUMERATED | {'pid': 1736, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,918 | PROCESS ENUMERATED | {'pid': 1748, 'ppid': 4920, 'name': 'ctfmon.exe', 'path': 'C:\\Windows\\System32\\ctfmon.exe'}
+2026-02-01 21:48:15,937 | PROCESS ENUMERATED | {'pid': 1772, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,953 | PROCESS ENUMERATED | {'pid': 1808, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:15,976 | PROCESS ENUMERATED | {'pid': 1916, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,000 | PROCESS ENUMERATED | {'pid': 2056, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,015 | PROCESS ENUMERATED | {'pid': 2064, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,029 | PROCESS ENUMERATED | {'pid': 2072, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,048 | PROCESS ENUMERATED | {'pid': 2128, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,064 | PROCESS ENUMERATED | {'pid': 2140, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,076 | PROCESS ENUMERATED | {'pid': 2148, 'ppid': 5108, 'name': 'powershell.exe', 'path': 'C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe'}
+2026-02-01 21:48:16,086 | PROCESS ENUMERATED | {'pid': 2248, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,094 | PROCESS ENUMERATED | {'pid': 2260, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,107 | PROCESS ENUMERATED | {'pid': 2272, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,122 | PROCESS ENUMERATED | {'pid': 2308, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,137 | PROCESS ENUMERATED | {'pid': 2348, 'ppid': 688, 'name': 'MsMpEng.exe', 'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25110.6-0\\MsMpEng.exe'}
+2026-02-01 21:48:16,150 | PROCESS ENUMERATED | {'pid': 2356, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,158 | PROCESS ENUMERATED | {'pid': 2384, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,184 | PROCESS ENUMERATED | {'pid': 2512, 'ppid': 688, 'name': 'spoolsv.exe', 'path': 'C:\\Windows\\System32\\spoolsv.exe'}
+2026-02-01 21:48:16,201 | PROCESS ENUMERATED | {'pid': 2556, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,234 | PROCESS ENUMERATED | {'pid': 2580, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,253 | PROCESS ENUMERATED | {'pid': 2592, 'ppid': 824, 'name': 'WmiPrvSE.exe', 'path': 'C:\\Windows\\System32\\wbem\\WmiPrvSE.exe'}
+2026-02-01 21:48:16,294 | PROCESS ENUMERATED | {'pid': 2612, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,324 | PROCESS ENUMERATED | {'pid': 2632, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,344 | PROCESS ENUMERATED | {'pid': 2696, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,357 | PROCESS ENUMERATED | {'pid': 2700, 'ppid': 5356, 'name': 'Copilot.exe', 'path': 'C:\\Program Files\\WindowsApps\\Microsoft.Copilot_1.25121.81.0_x64__8wekyb3d8bbwe\\Copilot.exe'}
+2026-02-01 21:48:16,369 | PROCESS ENUMERATED | {'pid': 2708, 'ppid': 5236, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'}
+2026-02-01 21:48:16,382 | PROCESS ENUMERATED | {'pid': 2740, 'ppid': 1456, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+2026-02-01 21:48:16,393 | PROCESS ENUMERATED | {'pid': 2808, 'ppid': 5108, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'}
+2026-02-01 21:48:16,405 | PROCESS ENUMERATED | {'pid': 2884, 'ppid': 824, 'name': 'ApplicationFrameHost.exe', 'path': 'C:\\Windows\\System32\\ApplicationFrameHost.exe'}
+2026-02-01 21:48:16,419 | PROCESS ENUMERATED | {'pid': 2972, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,431 | PROCESS ENUMERATED | {'pid': 2980, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,445 | PROCESS ENUMERATED | {'pid': 2992, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,480 | PROCESS ENUMERATED | {'pid': 3000, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,498 | PROCESS ENUMERATED | {'pid': 3008, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,519 | PROCESS ENUMERATED | {'pid': 3024, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,544 | PROCESS ENUMERATED | {'pid': 3032, 'ppid': 688, 'name': 'MpDefenderCoreService.exe', 'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25110.6-0\\MpDefenderCoreService.exe'}
+2026-02-01 21:48:16,559 | PROCESS ENUMERATED | {'pid': 3064, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,583 | PROCESS ENUMERATED | {'pid': 3268, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,596 | PROCESS ENUMERATED | {'pid': 3300, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,607 | PROCESS ENUMERATED | {'pid': 3316, 'ppid': 9884, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+2026-02-01 21:48:16,623 | PROCESS ENUMERATED | {'pid': 3640, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,637 | PROCESS ENUMERATED | {'pid': 3684, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,653 | PROCESS ENUMERATED | {'pid': 3704, 'ppid': 824, 'name': 'dllhost.exe', 'path': 'C:\\Windows\\System32\\dllhost.exe'}
+2026-02-01 21:48:16,673 | PROCESS ENUMERATED | {'pid': 3808, 'ppid': 824, 'name': 'dllhost.exe', 'path': 'C:\\Windows\\System32\\dllhost.exe'}
+2026-02-01 21:48:16,686 | PROCESS ENUMERATED | {'pid': 3900, 'ppid': 3684, 'name': 'dasHost.exe', 'path': 'C:\\Windows\\System32\\dasHost.exe'}
+2026-02-01 21:48:16,701 | PROCESS ENUMERATED | {'pid': 3932, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,712 | PROCESS ENUMERATED | {'pid': 3944, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,720 | PROCESS ENUMERATED | {'pid': 4044, 'ppid': 5108, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'}
+2026-02-01 21:48:16,738 | PROCESS ENUMERATED | {'pid': 4072, 'ppid': 688, 'name': 'SearchIndexer.exe', 'path': 'C:\\Windows\\System32\\SearchIndexer.exe'}
+2026-02-01 21:48:16,749 | PROCESS ENUMERATED | {'pid': 4100, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,757 | PROCESS ENUMERATED | {'pid': 4264, 'ppid': 2056, 'name': 'sihost.exe', 'path': 'C:\\Windows\\System32\\sihost.exe'}
+2026-02-01 21:48:16,762 | PROCESS ENUMERATED | {'pid': 4296, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,771 | PROCESS ENUMERATED | {'pid': 4372, 'ppid': 2980, 'name': 'AggregatorHost.exe', 'path': 'C:\\Windows\\System32\\AggregatorHost.exe'}
+2026-02-01 21:48:16,784 | PROCESS ENUMERATED | {'pid': 4428, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,795 | PROCESS ENUMERATED | {'pid': 4584, 'ppid': 1656, 'name': 'MicrosoftEdgeUpdate.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe'}
+2026-02-01 21:48:16,800 | PROCESS ENUMERATED | {'pid': 4592, 'ppid': 1656, 'name': 'taskhostw.exe', 'path': 'C:\\Windows\\System32\\taskhostw.exe'}
+2026-02-01 21:48:16,811 | PROCESS ENUMERATED | {'pid': 4608, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,816 | PROCESS ENUMERATED | {'pid': 4692, 'ppid': 5812, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'}
+2026-02-01 21:48:16,831 | PROCESS ENUMERATED | {'pid': 4712, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,842 | PROCESS ENUMERATED | {'pid': 4856, 'ppid': 688, 'name': 'NisSrv.exe', 'path': 'C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25110.6-0\\NisSrv.exe'}
+2026-02-01 21:48:16,856 | PROCESS ENUMERATED | {'pid': 4920, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,862 | PROCESS ENUMERATED | {'pid': 4964, 'ppid': 5108, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'}
+2026-02-01 21:48:16,872 | PROCESS ENUMERATED | {'pid': 4988, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,883 | PROCESS ENUMERATED | {'pid': 5104, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,889 | PROCESS ENUMERATED | {'pid': 5108, 'ppid': 1456, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+2026-02-01 21:48:16,902 | PROCESS ENUMERATED | {'pid': 5116, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,909 | PROCESS ENUMERATED | {'pid': 5236, 'ppid': 9844, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'}
+2026-02-01 21:48:16,924 | PROCESS ENUMERATED | {'pid': 5284, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,932 | PROCESS ENUMERATED | {'pid': 5356, 'ppid': 5332, 'name': 'explorer.exe', 'path': 'C:\\Windows\\explorer.exe'}
+2026-02-01 21:48:16,937 | PROCESS ENUMERATED | {'pid': 5544, 'ppid': 824, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+2026-02-01 21:48:16,947 | PROCESS ENUMERATED | {'pid': 5632, 'ppid': 1456, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+2026-02-01 21:48:16,955 | PROCESS ENUMERATED | {'pid': 5648, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,966 | PROCESS ENUMERATED | {'pid': 5800, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:16,971 | PROCESS ENUMERATED | {'pid': 5812, 'ppid': 9884, 'name': 'pet.exe', 'path': 'C:\\Users\\parth\\.vscode\\extensions\\ms-python.python-2026.0.0-win32-x64\\python-env-tools\\bin\\pet.exe'}
+2026-02-01 21:48:16,984 | PROCESS ENUMERATED | {'pid': 6068, 'ppid': 824, 'name': 'StartMenuExperienceHost.exe', 'path': 'C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe'}
+2026-02-01 21:48:16,997 | PROCESS ENUMERATED | {'pid': 6204, 'ppid': 824, 'name': 'SearchApp.exe', 'path': 'C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe'}
+2026-02-01 21:48:17,004 | PROCESS ENUMERATED | {'pid': 6372, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:17,023 | PROCESS ENUMERATED | {'pid': 6400, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:17,028 | PROCESS ENUMERATED | {'pid': 6460, 'ppid': 824, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+2026-02-01 21:48:17,039 | PROCESS ENUMERATED | {'pid': 6516, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:17,050 | PROCESS ENUMERATED | {'pid': 6668, 'ppid': 10000, 'name': 'python.exe', 'path': 'C:\\Windows_Service_Process_Monitoring_Agent\\venv\\Scripts\\python.exe'}
+2026-02-01 21:48:17,060 | PROCESS ENUMERATED | {'pid': 6768, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:17,066 | PROCESS ENUMERATED | {'pid': 6852, 'ppid': 1456, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+2026-02-01 21:48:17,076 | PROCESS ENUMERATED | {'pid': 7272, 'ppid': 824, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+2026-02-01 21:48:17,082 | PROCESS ENUMERATED | {'pid': 7304, 'ppid': 6668, 'name': 'python.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe'}
+2026-02-01 21:48:17,094 | PROCESS ENUMERATED | {'pid': 7384, 'ppid': 824, 'name': 'TextInputHost.exe', 'path': 'C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe'}
+2026-02-01 21:48:17,111 | PROCESS ENUMERATED | {'pid': 7408, 'ppid': 9884, 'name': 'python.exe', 'path': 'C:\\Windows_Service_Process_Monitoring_Agent\\venv\\Scripts\\python.exe'}
+2026-02-01 21:48:17,125 | PROCESS ENUMERATED | {'pid': 7524, 'ppid': 5236, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'}
+2026-02-01 21:48:17,133 | PROCESS ENUMERATED | {'pid': 7632, 'ppid': 5236, 'name': 'msedgewebview2.exe', 'path': 'C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\144.0.3719.93\\msedgewebview2.exe'}
+2026-02-01 21:48:17,147 | PROCESS ENUMERATED | {'pid': 8012, 'ppid': 5356, 'name': 'SecurityHealthSystray.exe', 'path': 'C:\\Windows\\System32\\SecurityHealthSystray.exe'}
+2026-02-01 21:48:17,157 | PROCESS ENUMERATED | {'pid': 8052, 'ppid': 688, 'name': 'SecurityHealthService.exe', 'path': 'C:\\Windows\\System32\\SecurityHealthService.exe'}
+2026-02-01 21:48:17,166 | PROCESS ENUMERATED | {'pid': 8340, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:17,176 | PROCESS ENUMERATED | {'pid': 8524, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:17,186 | PROCESS ENUMERATED | {'pid': 8536, 'ppid': 824, 'name': 'RuntimeBroker.exe', 'path': 'C:\\Windows\\System32\\RuntimeBroker.exe'}
+2026-02-01 21:48:17,192 | PROCESS ENUMERATED | {'pid': 8540, 'ppid': 1456, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+2026-02-01 21:48:17,202 | PROCESS ENUMERATED | {'pid': 8780, 'ppid': 7408, 'name': 'python.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe'}
+2026-02-01 21:48:17,210 | PROCESS ENUMERATED | {'pid': 8984, 'ppid': 1456, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+2026-02-01 21:48:17,216 | PROCESS ENUMERATED | {'pid': 9044, 'ppid': 5108, 'name': 'powershell.exe', 'path': 'C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe'}
+2026-02-01 21:48:17,220 | PROCESS ENUMERATED | {'pid': 9392, 'ppid': 7408, 'name': 'conhost.exe', 'path': 'C:\\Windows\\System32\\conhost.exe'}
+2026-02-01 21:48:17,229 | PROCESS ENUMERATED | {'pid': 9476, 'ppid': 824, 'name': 'FileCoAuth.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Microsoft\\OneDrive\\25.243.1211.0001\\FileCoAuth.exe'}
+2026-02-01 21:48:17,234 | PROCESS ENUMERATED | {'pid': 9508, 'ppid': 824, 'name': 'UserOOBEBroker.exe', 'path': 'C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe'}
+2026-02-01 21:48:17,248 | PROCESS ENUMERATED | {'pid': 9548, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:17,262 | PROCESS ENUMERATED | {'pid': 9572, 'ppid': 824, 'name': 'SystemSettings.exe', 'path': 'C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe'}
+2026-02-01 21:48:17,275 | PROCESS ENUMERATED | {'pid': 9592, 'ppid': 824, 'name': 'smartscreen.exe', 'path': 'C:\\Windows\\System32\\smartscreen.exe'}
+2026-02-01 21:48:17,284 | PROCESS ENUMERATED | {'pid': 9760, 'ppid': 824, 'name': 'WmiPrvSE.exe', 'path': 'C:\\Windows\\System32\\wbem\\WmiPrvSE.exe'}
+2026-02-01 21:48:17,292 | PROCESS ENUMERATED | {'pid': 9844, 'ppid': 824, 'name': 'SearchApp.exe', 'path': 'C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe'}
+2026-02-01 21:48:17,298 | PROCESS ENUMERATED | {'pid': 9884, 'ppid': 1456, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+2026-02-01 21:48:17,307 | PROCESS ENUMERATED | {'pid': 9928, 'ppid': 9044, 'name': 'python.exe', 'path': 'C:\\Windows_Service_Process_Monitoring_Agent\\venv\\Scripts\\python.exe'}
+2026-02-01 21:48:17,315 | PROCESS ENUMERATED | {'pid': 9964, 'ppid': 1456, 'name': 'Code.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe'}
+2026-02-01 21:48:17,327 | PROCESS ENUMERATED | {'pid': 10000, 'ppid': 9928, 'name': 'python.exe', 'path': 'C:\\Users\\parth\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe'}
+2026-02-01 21:48:17,353 | PROCESS ENUMERATED | {'pid': 10184, 'ppid': 688, 'name': 'svchost.exe', 'path': 'C:\\Windows\\System32\\svchost.exe'}
+2026-02-01 21:48:22,591 | SERVICE ENUMERATED | {'name': 'AJRouter', 'display_name': 'AllJoyn Router Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,598 | SERVICE ENUMERATED | {'name': 'ALG', 'display_name': 'Application Layer Gateway Service', 'path': 'C:\\Windows\\System32\\alg.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,609 | SERVICE ENUMERATED | {'name': 'AppIDSvc', 'display_name': 'Application Identity', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,613 | SERVICE ENUMERATED | {'name': 'Appinfo', 'display_name': 'Application Information', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,621 | SERVICE ENUMERATED | {'name': 'AppReadiness', 'display_name': 'App Readiness', 'path': 'C:\\Windows\\System32\\svchost.exe -k AppReadiness -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,625 | SERVICE ENUMERATED | {'name': 'AppXSvc', 'display_name': 'AppX Deployment Service (AppXSVC)', 'path': 'C:\\Windows\\system32\\svchost.exe -k wsappx -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,630 | SERVICE ENUMERATED | {'name': 'AudioEndpointBuilder', 'display_name': 'Windows Audio Endpoint Builder', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,639 | SERVICE ENUMERATED | {'name': 'Audiosrv', 'display_name': 'Windows Audio', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,643 | SERVICE ENUMERATED | {'name': 'autotimesvc', 'display_name': 'Cellular Time', 'path': 'C:\\Windows\\system32\\svchost.exe -k autoTimeSvc', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,653 | SERVICE ENUMERATED | {'name': 'AxInstSV', 'display_name': 'ActiveX Installer (AxInstSV)', 'path': 'C:\\Windows\\system32\\svchost.exe -k AxInstSVGroup', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,657 | SERVICE ENUMERATED | {'name': 'BDESVC', 'display_name': 'BitLocker Drive Encryption Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,661 | SERVICE ENUMERATED | {'name': 'BFE', 'display_name': 'Base Filtering Engine', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNoNetworkFirewall -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,669 | SERVICE ENUMERATED | {'name': 'BITS', 'display_name': 'Background Intelligent Transfer Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,673 | SERVICE ENUMERATED | {'name': 'BrokerInfrastructure', 'display_name': 'Background Tasks Infrastructure Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,676 | SERVICE ENUMERATED | {'name': 'Browser', 'display_name': 'Computer Browser', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,680 | SERVICE ENUMERATED | {'name': 'BTAGService', 'display_name': 'Bluetooth Audio Gateway Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,683 | SERVICE ENUMERATED | {'name': 'BthAvctpSvc', 'display_name': 'AVCTP service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,687 | SERVICE ENUMERATED | {'name': 'bthserv', 'display_name': 'Bluetooth Support Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,690 | SERVICE ENUMERATED | {'name': 'camsvc', 'display_name': 'Capability Access Manager Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k appmodel -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,693 | SERVICE ENUMERATED | {'name': 'CDPSvc', 'display_name': 'Connected Devices Platform Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,696 | SERVICE ENUMERATED | {'name': 'CertPropSvc', 'display_name': 'Certificate Propagation', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,700 | SERVICE ENUMERATED | {'name': 'ClipSVC', 'display_name': 'Client License Service (ClipSVC)', 'path': 'C:\\Windows\\System32\\svchost.exe -k wsappx -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,703 | SERVICE ENUMERATED | {'name': 'COMSysApp', 'display_name': 'COM+ System Application', 'path': 'C:\\Windows\\system32\\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,706 | SERVICE ENUMERATED | {'name': 'CoreMessagingRegistrar', 'display_name': 'CoreMessaging', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNoNetwork -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,709 | SERVICE ENUMERATED | {'name': 'CryptSvc', 'display_name': 'Cryptographic Services', 'path': 'C:\\Windows\\system32\\svchost.exe -k NetworkService -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,712 | SERVICE ENUMERATED | {'name': 'DcomLaunch', 'display_name': 'DCOM Server Process Launcher', 'path': 'C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,715 | SERVICE ENUMERATED | {'name': 'dcsvc', 'display_name': 'Declared Configuration(DC) service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,719 | SERVICE ENUMERATED | {'name': 'defragsvc', 'display_name': 'Optimize drives', 'path': 'C:\\Windows\\system32\\svchost.exe -k defragsvc', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,722 | SERVICE ENUMERATED | {'name': 'DeviceAssociationService', 'display_name': 'Device Association Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,725 | SERVICE ENUMERATED | {'name': 'DeviceInstall', 'display_name': 'Device Install Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,729 | SERVICE ENUMERATED | {'name': 'DevQueryBroker', 'display_name': 'DevQuery Background Discovery Broker', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,733 | SERVICE ENUMERATED | {'name': 'Dhcp', 'display_name': 'DHCP Client', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,736 | SERVICE ENUMERATED | {'name': 'diagnosticshub.standardcollector.service', 'display_name': 'Microsoft (R) Diagnostics Hub Standard Collector Service', 'path': 'C:\\Windows\\system32\\DiagSvcs\\DiagnosticsHub.StandardCollector.Service.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,740 | SERVICE ENUMERATED | {'name': 'diagsvc', 'display_name': 'Diagnostic Execution Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k diagnostics', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,743 | SERVICE ENUMERATED | {'name': 'DiagTrack', 'display_name': 'Connected User Experiences and Telemetry', 'path': 'C:\\Windows\\System32\\svchost.exe -k utcsvc -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,746 | SERVICE ENUMERATED | {'name': 'DispBrokerDesktopSvc', 'display_name': 'Display Policy Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,750 | SERVICE ENUMERATED | {'name': 'DisplayEnhancementService', 'display_name': 'Display Enhancement Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,753 | SERVICE ENUMERATED | {'name': 'DmEnrollmentSvc', 'display_name': 'Device Management Enrollment Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,756 | SERVICE ENUMERATED | {'name': 'dmwappushservice', 'display_name': 'Device Management Wireless Application Protocol (WAP) Push message Routing Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,760 | SERVICE ENUMERATED | {'name': 'Dnscache', 'display_name': 'DNS Client', 'path': 'C:\\Windows\\system32\\svchost.exe -k NetworkService -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,764 | SERVICE ENUMERATED | {'name': 'DoSvc', 'display_name': 'Delivery Optimization', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,767 | SERVICE ENUMERATED | {'name': 'dot3svc', 'display_name': 'Wired AutoConfig', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,771 | SERVICE ENUMERATED | {'name': 'DPS', 'display_name': 'Diagnostic Policy Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNoNetwork -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,774 | SERVICE ENUMERATED | {'name': 'DsmSvc', 'display_name': 'Device Setup Manager', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,778 | SERVICE ENUMERATED | {'name': 'DsSvc', 'display_name': 'Data Sharing Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,782 | SERVICE ENUMERATED | {'name': 'DusmSvc', 'display_name': 'Data Usage', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,786 | SERVICE ENUMERATED | {'name': 'Eaphost', 'display_name': 'Extensible Authentication Protocol', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,789 | SERVICE ENUMERATED | {'name': 'edgeupdate', 'display_name': 'Microsoft Edge Update Service (edgeupdate)', 'path': '"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe" /svc', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,792 | SERVICE ENUMERATED | {'name': 'edgeupdatem', 'display_name': 'Microsoft Edge Update Service (edgeupdatem)', 'path': '"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe" /medsvc', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,796 | SERVICE ENUMERATED | {'name': 'EFS', 'display_name': 'Encrypting File System (EFS)', 'path': 'C:\\Windows\\System32\\lsass.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,799 | SERVICE ENUMERATED | {'name': 'embeddedmode', 'display_name': 'Embedded Mode', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,803 | SERVICE ENUMERATED | {'name': 'EntAppSvc', 'display_name': 'Enterprise App Management Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k appmodel -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,806 | SERVICE ENUMERATED | {'name': 'EventLog', 'display_name': 'Windows Event Log', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,810 | SERVICE ENUMERATED | {'name': 'EventSystem', 'display_name': 'COM+ Event System', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,814 | SERVICE ENUMERATED | {'name': 'Fax', 'display_name': 'Fax', 'path': 'C:\\Windows\\system32\\fxssvc.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,819 | SERVICE ENUMERATED | {'name': 'fdPHost', 'display_name': 'Function Discovery Provider Host', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,824 | SERVICE ENUMERATED | {'name': 'FDResPub', 'display_name': 'Function Discovery Resource Publication', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,828 | SERVICE ENUMERATED | {'name': 'fhsvc', 'display_name': 'File History Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,832 | SERVICE ENUMERATED | {'name': 'FontCache', 'display_name': 'Windows Font Cache Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,835 | SERVICE ENUMERATED | {'name': 'FrameServer', 'display_name': 'Windows Camera Frame Server', 'path': 'C:\\Windows\\System32\\svchost.exe -k Camera', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,838 | SERVICE ENUMERATED | {'name': 'GameInputSvc', 'display_name': 'GameInput Service', 'path': 'C:\\Windows\\System32\\GameInputSvc.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,841 | SERVICE ENUMERATED | {'name': 'gpsvc', 'display_name': 'Group Policy Client', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,844 | SERVICE ENUMERATED | {'name': 'GraphicsPerfSvc', 'display_name': 'GraphicsPerfSvc', 'path': 'C:\\Windows\\System32\\svchost.exe -k GraphicsPerfSvcGroup', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,847 | SERVICE ENUMERATED | {'name': 'hidserv', 'display_name': 'Human Interface Device Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,850 | SERVICE ENUMERATED | {'name': 'HvHost', 'display_name': 'HV Host Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,853 | SERVICE ENUMERATED | {'name': 'icssvc', 'display_name': 'Windows Mobile Hotspot Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,856 | SERVICE ENUMERATED | {'name': 'IKEEXT', 'display_name': 'IKE and AuthIP IPsec Keying Modules', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,858 | SERVICE ENUMERATED | {'name': 'InstallService', 'display_name': 'Microsoft Store Install Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,861 | SERVICE ENUMERATED | {'name': 'iphlpsvc', 'display_name': 'IP Helper', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetSvcs -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,864 | SERVICE ENUMERATED | {'name': 'IpxlatCfgSvc', 'display_name': 'IP Translation Configuration Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,867 | SERVICE ENUMERATED | {'name': 'KeyIso', 'display_name': 'CNG Key Isolation', 'path': 'C:\\Windows\\system32\\lsass.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,870 | SERVICE ENUMERATED | {'name': 'KtmRm', 'display_name': 'KtmRm for Distributed Transaction Coordinator', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,873 | SERVICE ENUMERATED | {'name': 'LanmanServer', 'display_name': 'Server', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,876 | SERVICE ENUMERATED | {'name': 'LanmanWorkstation', 'display_name': 'Workstation', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,879 | SERVICE ENUMERATED | {'name': 'lfsvc', 'display_name': 'Geolocation Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,883 | SERVICE ENUMERATED | {'name': 'LicenseManager', 'display_name': 'Windows License Manager Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,886 | SERVICE ENUMERATED | {'name': 'lltdsvc', 'display_name': 'Link-Layer Topology Discovery Mapper', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,890 | SERVICE ENUMERATED | {'name': 'lmhosts', 'display_name': 'TCP/IP NetBIOS Helper', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,893 | SERVICE ENUMERATED | {'name': 'LSM', 'display_name': 'LSM', 'path': '', 'start_mode': 'Unknown'}
+2026-02-01 21:48:22,896 | SERVICE ENUMERATED | {'name': 'LxpSvc', 'display_name': 'Language Experience Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,899 | SERVICE ENUMERATED | {'name': 'MapsBroker', 'display_name': 'Downloaded Maps Manager', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,902 | SERVICE ENUMERATED | {'name': 'McpManagementService', 'display_name': 'McpManagementService', 'path': 'C:\\Windows\\system32\\svchost.exe -k McpManagementServiceGroup', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,905 | SERVICE ENUMERATED | {'name': 'MDCoreSvc', 'display_name': 'Microsoft Defender Core Service', 'path': '"C:\\ProgramData\\Microsoft\\Windows Defender\\platform\\4.18.25110.6-0\\MpDefenderCoreService.exe"', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,908 | SERVICE ENUMERATED | {'name': 'MicrosoftEdgeElevationService', 'display_name': 'Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)', 'path': '"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\144.0.3719.104\\elevation_service.exe"', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,912 | SERVICE ENUMERATED | {'name': 'MixedRealityOpenXRSvc', 'display_name': 'Windows Mixed Reality OpenXR Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,915 | SERVICE ENUMERATED | {'name': 'MozillaMaintenance', 'display_name': 'Mozilla Maintenance Service', 'path': '"C:\\Program Files (x86)\\Mozilla Maintenance Service\\maintenanceservice.exe"', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,918 | SERVICE ENUMERATED | {'name': 'mpssvc', 'display_name': 'Windows Defender Firewall', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNoNetworkFirewall -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,921 | SERVICE ENUMERATED | {'name': 'MSDTC', 'display_name': 'Distributed Transaction Coordinator', 'path': 'C:\\Windows\\System32\\msdtc.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,924 | SERVICE ENUMERATED | {'name': 'MSiSCSI', 'display_name': 'Microsoft iSCSI Initiator Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,928 | SERVICE ENUMERATED | {'name': 'msiserver', 'display_name': 'Windows Installer', 'path': 'C:\\Windows\\system32\\msiexec.exe /V', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,931 | SERVICE ENUMERATED | {'name': 'NaturalAuthentication', 'display_name': 'Natural Authentication', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,935 | SERVICE ENUMERATED | {'name': 'NcaSvc', 'display_name': 'Network Connectivity Assistant', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetSvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,938 | SERVICE ENUMERATED | {'name': 'NcbService', 'display_name': 'Network Connection Broker', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,941 | SERVICE ENUMERATED | {'name': 'NcdAutoSetup', 'display_name': 'Network Connected Devices Auto-Setup', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNoNetwork -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,944 | SERVICE ENUMERATED | {'name': 'Netlogon', 'display_name': 'Netlogon', 'path': 'C:\\Windows\\system32\\lsass.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,948 | SERVICE ENUMERATED | {'name': 'Netman', 'display_name': 'Network Connections', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,951 | SERVICE ENUMERATED | {'name': 'netprofm', 'display_name': 'Network List Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,954 | SERVICE ENUMERATED | {'name': 'NetSetupSvc', 'display_name': 'NetSetupSvc', 'path': '', 'start_mode': 'Unknown'}
+2026-02-01 21:48:22,957 | SERVICE ENUMERATED | {'name': 'NetTcpPortSharing', 'display_name': 'Net.Tcp Port Sharing Service', 'path': 'C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\SMSvcHost.exe', 'start_mode': 'Disabled'}
+2026-02-01 21:48:22,960 | SERVICE ENUMERATED | {'name': 'NgcCtnrSvc', 'display_name': 'Microsoft Passport Container', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,963 | SERVICE ENUMERATED | {'name': 'NgcSvc', 'display_name': 'Microsoft Passport', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,967 | SERVICE ENUMERATED | {'name': 'NlaSvc', 'display_name': 'Network Location Awareness', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,970 | SERVICE ENUMERATED | {'name': 'nsi', 'display_name': 'Network Store Interface Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:22,973 | SERVICE ENUMERATED | {'name': 'p2pimsvc', 'display_name': 'Peer Networking Identity Manager', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServicePeerNet', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,976 | SERVICE ENUMERATED | {'name': 'p2psvc', 'display_name': 'Peer Networking Grouping', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServicePeerNet', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,979 | SERVICE ENUMERATED | {'name': 'PcaSvc', 'display_name': 'Program Compatibility Assistant Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,982 | SERVICE ENUMERATED | {'name': 'perceptionsimulation', 'display_name': 'Windows Perception Simulation Service', 'path': 'C:\\Windows\\system32\\PerceptionSimulation\\PerceptionSimulationService.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,985 | SERVICE ENUMERATED | {'name': 'PerfHost', 'display_name': 'Performance Counter DLL Host', 'path': 'C:\\Windows\\SysWow64\\perfhost.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,988 | SERVICE ENUMERATED | {'name': 'PhoneSvc', 'display_name': 'Phone Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,991 | SERVICE ENUMERATED | {'name': 'pla', 'display_name': 'Performance Logs & Alerts', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNoNetwork -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,994 | SERVICE ENUMERATED | {'name': 'PlugPlay', 'display_name': 'Plug and Play', 'path': 'C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:22,997 | SERVICE ENUMERATED | {'name': 'PNRPAutoReg', 'display_name': 'PNRP Machine Name Publication Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServicePeerNet', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,000 | SERVICE ENUMERATED | {'name': 'PNRPsvc', 'display_name': 'Peer Name Resolution Protocol', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServicePeerNet', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,003 | SERVICE ENUMERATED | {'name': 'PolicyAgent', 'display_name': 'IPsec Policy Agent', 'path': 'C:\\Windows\\system32\\svchost.exe -k NetworkServiceNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,006 | SERVICE ENUMERATED | {'name': 'Power', 'display_name': 'Power', 'path': 'C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,009 | SERVICE ENUMERATED | {'name': 'PrintNotify', 'display_name': 'Printer Extensions and Notifications', 'path': 'C:\\Windows\\system32\\svchost.exe -k print', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,012 | SERVICE ENUMERATED | {'name': 'ProfSvc', 'display_name': 'User Profile Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,016 | SERVICE ENUMERATED | {'name': 'PushToInstall', 'display_name': 'Windows PushToInstall Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,019 | SERVICE ENUMERATED | {'name': 'QWAVE', 'display_name': 'Quality Windows Audio Video Experience', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,022 | SERVICE ENUMERATED | {'name': 'RasAuto', 'display_name': 'Remote Access Auto Connection Manager', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,025 | SERVICE ENUMERATED | {'name': 'RasMan', 'display_name': 'Remote Access Connection Manager', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,028 | SERVICE ENUMERATED | {'name': 'RemoteAccess', 'display_name': 'Routing and Remote Access', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs', 'start_mode': 'Disabled'}
+2026-02-01 21:48:23,031 | SERVICE ENUMERATED | {'name': 'RemoteRegistry', 'display_name': 'Remote Registry', 'path': 'C:\\Windows\\system32\\svchost.exe -k localService -p', 'start_mode': 'Disabled'}
+2026-02-01 21:48:23,034 | SERVICE ENUMERATED | {'name': 'RetailDemo', 'display_name': 'Retail Demo Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k rdxgroup', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,037 | SERVICE ENUMERATED | {'name': 'RmSvc', 'display_name': 'Radio Management Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,040 | SERVICE ENUMERATED | {'name': 'RpcEptMapper', 'display_name': 'RPC Endpoint Mapper', 'path': 'C:\\Windows\\system32\\svchost.exe -k RPCSS -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,043 | SERVICE ENUMERATED | {'name': 'RpcLocator', 'display_name': 'Remote Procedure Call (RPC) Locator', 'path': 'C:\\Windows\\system32\\locator.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,046 | SERVICE ENUMERATED | {'name': 'RpcSs', 'display_name': 'Remote Procedure Call (RPC)', 'path': 'C:\\Windows\\system32\\svchost.exe -k rpcss -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,049 | SERVICE ENUMERATED | {'name': 'SamSs', 'display_name': 'Security Accounts Manager', 'path': 'C:\\Windows\\system32\\lsass.exe', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,053 | SERVICE ENUMERATED | {'name': 'SCardSvr', 'display_name': 'Smart Card', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,055 | SERVICE ENUMERATED | {'name': 'ScDeviceEnum', 'display_name': 'Smart Card Device Enumeration Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,059 | SERVICE ENUMERATED | {'name': 'Schedule', 'display_name': 'Task Scheduler', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,062 | SERVICE ENUMERATED | {'name': 'SCPolicySvc', 'display_name': 'Smart Card Removal Policy', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,065 | SERVICE ENUMERATED | {'name': 'SDRSVC', 'display_name': 'Windows Backup', 'path': 'C:\\Windows\\system32\\svchost.exe -k SDRSVC', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,068 | SERVICE ENUMERATED | {'name': 'seclogon', 'display_name': 'Secondary Logon', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,072 | SERVICE ENUMERATED | {'name': 'SecurityHealthService', 'display_name': 'Windows Security Service', 'path': 'C:\\Windows\\system32\\SecurityHealthService.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,075 | SERVICE ENUMERATED | {'name': 'SEMgrSvc', 'display_name': 'Payments and NFC/SE Manager', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,078 | SERVICE ENUMERATED | {'name': 'SENS', 'display_name': 'System Event Notification Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,082 | SERVICE ENUMERATED | {'name': 'SensorDataService', 'display_name': 'Sensor Data Service', 'path': 'C:\\Windows\\System32\\SensorDataService.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,085 | SERVICE ENUMERATED | {'name': 'SensorService', 'display_name': 'Sensor Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,088 | SERVICE ENUMERATED | {'name': 'SensrSvc', 'display_name': 'Sensor Monitoring Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,091 | SERVICE ENUMERATED | {'name': 'SessionEnv', 'display_name': 'Remote Desktop Configuration', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,094 | SERVICE ENUMERATED | {'name': 'SharedAccess', 'display_name': 'Internet Connection Sharing (ICS)', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,097 | SERVICE ENUMERATED | {'name': 'SharedRealitySvc', 'display_name': 'Spatial Data Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,101 | SERVICE ENUMERATED | {'name': 'ShellHWDetection', 'display_name': 'Shell Hardware Detection', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,104 | SERVICE ENUMERATED | {'name': 'shpamsvc', 'display_name': 'Shared PC Account Manager', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Disabled'}
+2026-02-01 21:48:23,107 | SERVICE ENUMERATED | {'name': 'smphost', 'display_name': 'Microsoft Storage Spaces SMP', 'path': 'C:\\Windows\\System32\\svchost.exe -k smphost', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,110 | SERVICE ENUMERATED | {'name': 'SmsRouter', 'display_name': 'Microsoft Windows SMS Router Service.', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,113 | SERVICE ENUMERATED | {'name': 'SNMPTRAP', 'display_name': 'SNMP Trap', 'path': 'C:\\Windows\\System32\\snmptrap.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,116 | SERVICE ENUMERATED | {'name': 'spectrum', 'display_name': 'Windows Perception Service', 'path': 'C:\\Windows\\system32\\spectrum.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,119 | SERVICE ENUMERATED | {'name': 'Spooler', 'display_name': 'Print Spooler', 'path': 'C:\\Windows\\System32\\spoolsv.exe', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,122 | SERVICE ENUMERATED | {'name': 'sppsvc', 'display_name': 'Software Protection', 'path': 'C:\\Windows\\system32\\sppsvc.exe', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,125 | SERVICE ENUMERATED | {'name': 'SSDPSRV', 'display_name': 'SSDP Discovery', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,129 | SERVICE ENUMERATED | {'name': 'ssh-agent', 'display_name': 'OpenSSH Authentication Agent', 'path': 'C:\\Windows\\System32\\OpenSSH\\ssh-agent.exe', 'start_mode': 'Disabled'}
+2026-02-01 21:48:23,132 | SERVICE ENUMERATED | {'name': 'SstpSvc', 'display_name': 'Secure Socket Tunneling Protocol Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,135 | SERVICE ENUMERATED | {'name': 'StateRepository', 'display_name': 'State Repository Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k appmodel -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,138 | SERVICE ENUMERATED | {'name': 'stisvc', 'display_name': 'Windows Image Acquisition (WIA)', 'path': 'C:\\Windows\\system32\\svchost.exe -k imgsvc', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,141 | SERVICE ENUMERATED | {'name': 'StorSvc', 'display_name': 'Storage Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,144 | SERVICE ENUMERATED | {'name': 'svsvc', 'display_name': 'Spot Verifier', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,147 | SERVICE ENUMERATED | {'name': 'swprv', 'display_name': 'Microsoft Software Shadow Copy Provider', 'path': 'C:\\Windows\\System32\\svchost.exe -k swprv', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,151 | SERVICE ENUMERATED | {'name': 'SysMain', 'display_name': 'SysMain', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,154 | SERVICE ENUMERATED | {'name': 'SystemEventsBroker', 'display_name': 'System Events Broker', 'path': 'C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,157 | SERVICE ENUMERATED | {'name': 'TabletInputService', 'display_name': 'Touch Keyboard and Handwriting Panel Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,160 | SERVICE ENUMERATED | {'name': 'TapiSrv', 'display_name': 'Telephony', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,163 | SERVICE ENUMERATED | {'name': 'TermService', 'display_name': 'Remote Desktop Services', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,166 | SERVICE ENUMERATED | {'name': 'TestBadService', 'display_name': 'TestBadService', 'path': 'C:\\Users\\parth\\AppData\\Local\\Temp\\fake_service.exe', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,171 | SERVICE ENUMERATED | {'name': 'Themes', 'display_name': 'Themes', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,174 | SERVICE ENUMERATED | {'name': 'TieringEngineService', 'display_name': 'Storage Tiers Management', 'path': 'C:\\Windows\\system32\\TieringEngineService.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,178 | SERVICE ENUMERATED | {'name': 'TimeBrokerSvc', 'display_name': 'Time Broker', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,181 | SERVICE ENUMERATED | {'name': 'TokenBroker', 'display_name': 'Web Account Manager', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,184 | SERVICE ENUMERATED | {'name': 'TrkWks', 'display_name': 'Distributed Link Tracking Client', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,187 | SERVICE ENUMERATED | {'name': 'TroubleshootingSvc', 'display_name': 'Recommended Troubleshooting Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,190 | SERVICE ENUMERATED | {'name': 'TrustedInstaller', 'display_name': 'Windows Modules Installer', 'path': 'C:\\Windows\\servicing\\TrustedInstaller.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,193 | SERVICE ENUMERATED | {'name': 'tzautoupdate', 'display_name': 'Auto Time Zone Updater', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Disabled'}
+2026-02-01 21:48:23,196 | SERVICE ENUMERATED | {'name': 'uhssvc', 'display_name': 'Microsoft Update Health Service', 'path': '"C:\\Program Files\\Microsoft Update Health Tools\\uhssvc.exe"', 'start_mode': 'Disabled'}
+2026-02-01 21:48:23,199 | SERVICE ENUMERATED | {'name': 'UmRdpService', 'display_name': 'Remote Desktop Services UserMode Port Redirector', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,202 | SERVICE ENUMERATED | {'name': 'upnphost', 'display_name': 'UPnP Device Host', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,205 | SERVICE ENUMERATED | {'name': 'UserManager', 'display_name': 'User Manager', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,208 | SERVICE ENUMERATED | {'name': 'UsoSvc', 'display_name': 'Update Orchestrator Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,211 | SERVICE ENUMERATED | {'name': 'VacSvc', 'display_name': 'Volumetric Audio Compositor Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,215 | SERVICE ENUMERATED | {'name': 'VaultSvc', 'display_name': 'Credential Manager', 'path': 'C:\\Windows\\system32\\lsass.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,232 | SERVICE ENUMERATED | {'name': 'vds', 'display_name': 'Virtual Disk', 'path': 'C:\\Windows\\System32\\vds.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,236 | SERVICE ENUMERATED | {'name': 'vmicguestinterface', 'display_name': 'Hyper-V Guest Service Interface', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,248 | SERVICE ENUMERATED | {'name': 'vmicheartbeat', 'display_name': 'Hyper-V Heartbeat Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k ICService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,252 | SERVICE ENUMERATED | {'name': 'vmickvpexchange', 'display_name': 'Hyper-V Data Exchange Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,255 | SERVICE ENUMERATED | {'name': 'vmicrdv', 'display_name': 'Hyper-V Remote Desktop Virtualization Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k ICService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,258 | SERVICE ENUMERATED | {'name': 'vmicshutdown', 'display_name': 'Hyper-V Guest Shutdown Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,261 | SERVICE ENUMERATED | {'name': 'vmictimesync', 'display_name': 'Hyper-V Time Synchronization Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,265 | SERVICE ENUMERATED | {'name': 'vmicvmsession', 'display_name': 'Hyper-V PowerShell Direct Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,268 | SERVICE ENUMERATED | {'name': 'vmicvss', 'display_name': 'Hyper-V Volume Shadow Copy Requestor', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,271 | SERVICE ENUMERATED | {'name': 'VSInstallerElevationService', 'display_name': 'Visual Studio Installer Elevation Service', 'path': '"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\VSInstallerElevationService.exe"', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,274 | SERVICE ENUMERATED | {'name': 'VSS', 'display_name': 'Volume Shadow Copy', 'path': 'C:\\Windows\\system32\\vssvc.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,278 | SERVICE ENUMERATED | {'name': 'W32Time', 'display_name': 'Windows Time', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,281 | SERVICE ENUMERATED | {'name': 'WaaSMedicSvc', 'display_name': 'Windows Update Medic Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k wusvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,284 | SERVICE ENUMERATED | {'name': 'WalletService', 'display_name': 'WalletService', 'path': 'C:\\Windows\\System32\\svchost.exe -k appmodel -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,288 | SERVICE ENUMERATED | {'name': 'WarpJITSvc', 'display_name': 'WarpJITSvc', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,291 | SERVICE ENUMERATED | {'name': 'wbengine', 'display_name': 'Block Level Backup Engine Service', 'path': '"C:\\Windows\\system32\\wbengine.exe"', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,294 | SERVICE ENUMERATED | {'name': 'WbioSrvc', 'display_name': 'Windows Biometric Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k WbioSvcGroup', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,297 | SERVICE ENUMERATED | {'name': 'Wcmsvc', 'display_name': 'Windows Connection Manager', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,301 | SERVICE ENUMERATED | {'name': 'wcncsvc', 'display_name': 'Windows Connect Now - Config Registrar', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceAndNoImpersonation -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,304 | SERVICE ENUMERATED | {'name': 'WdiServiceHost', 'display_name': 'Diagnostic Service Host', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,307 | SERVICE ENUMERATED | {'name': 'WdiSystemHost', 'display_name': 'Diagnostic System Host', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,311 | SERVICE ENUMERATED | {'name': 'WdNisSvc', 'display_name': 'Microsoft Defender Antivirus Network Inspection Service', 'path': '"C:\\ProgramData\\Microsoft\\Windows Defender\\platform\\4.18.25110.6-0\\NisSrv.exe"', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,314 | SERVICE ENUMERATED | {'name': 'WebClient', 'display_name': 'WebClient', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,319 | SERVICE ENUMERATED | {'name': 'Wecsvc', 'display_name': 'Windows Event Collector', 'path': 'C:\\Windows\\system32\\svchost.exe -k NetworkService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,323 | SERVICE ENUMERATED | {'name': 'WEPHOSTSVC', 'display_name': 'Windows Encryption Provider Host Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k WepHostSvcGroup', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,326 | SERVICE ENUMERATED | {'name': 'wercplsupport', 'display_name': 'Problem Reports Control Panel Support', 'path': 'C:\\Windows\\System32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,330 | SERVICE ENUMERATED | {'name': 'WerSvc', 'display_name': 'Windows Error Reporting Service', 'path': 'C:\\Windows\\System32\\svchost.exe -k WerSvcGroup', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,334 | SERVICE ENUMERATED | {'name': 'WFDSConMgrSvc', 'display_name': 'Wi-Fi Direct Services Connection Manager Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,338 | SERVICE ENUMERATED | {'name': 'WiaRpc', 'display_name': 'Still Image Acquisition Events', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,343 | SERVICE ENUMERATED | {'name': 'WinDefend', 'display_name': 'Microsoft Defender Antivirus Service', 'path': '"C:\\ProgramData\\Microsoft\\Windows Defender\\platform\\4.18.25110.6-0\\MsMpEng.exe"', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,348 | SERVICE ENUMERATED | {'name': 'WinHttpAutoProxySvc', 'display_name': 'WinHTTP Web Proxy Auto-Discovery Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,353 | SERVICE ENUMERATED | {'name': 'Winmgmt', 'display_name': 'Windows Management Instrumentation', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,356 | SERVICE ENUMERATED | {'name': 'WinRM', 'display_name': 'Windows Remote Management (WS-Management)', 'path': 'C:\\Windows\\System32\\svchost.exe -k NetworkService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,360 | SERVICE ENUMERATED | {'name': 'wisvc', 'display_name': 'Windows Insider Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,363 | SERVICE ENUMERATED | {'name': 'WlanSvc', 'display_name': 'WLAN AutoConfig', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,366 | SERVICE ENUMERATED | {'name': 'wlidsvc', 'display_name': 'Microsoft Account Sign-in Assistant', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,369 | SERVICE ENUMERATED | {'name': 'wlpasvc', 'display_name': 'Local Profile Assistant Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,372 | SERVICE ENUMERATED | {'name': 'WManSvc', 'display_name': 'Windows Management Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,375 | SERVICE ENUMERATED | {'name': 'wmiApSrv', 'display_name': 'WMI Performance Adapter', 'path': 'C:\\Windows\\system32\\wbem\\WmiApSrv.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,378 | SERVICE ENUMERATED | {'name': 'WMPNetworkSvc', 'display_name': 'Windows Media Player Network Sharing Service', 'path': '"C:\\Program Files\\Windows Media Player\\wmpnetwk.exe"', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,381 | SERVICE ENUMERATED | {'name': 'workfolderssvc', 'display_name': 'Work Folders', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,384 | SERVICE ENUMERATED | {'name': 'WpcMonSvc', 'display_name': 'Parental Controls', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,387 | SERVICE ENUMERATED | {'name': 'WPDBusEnum', 'display_name': 'Portable Device Enumerator Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,390 | SERVICE ENUMERATED | {'name': 'WpnService', 'display_name': 'Windows Push Notifications System Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,394 | SERVICE ENUMERATED | {'name': 'wscsvc', 'display_name': 'Security Center', 'path': 'C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,397 | SERVICE ENUMERATED | {'name': 'WSearch', 'display_name': 'Windows Search', 'path': 'C:\\Windows\\system32\\SearchIndexer.exe /Embedding', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,400 | SERVICE ENUMERATED | {'name': 'wuauserv', 'display_name': 'Windows Update', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,403 | SERVICE ENUMERATED | {'name': 'WwanSvc', 'display_name': 'WWAN AutoConfig', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,407 | SERVICE ENUMERATED | {'name': 'XblAuthManager', 'display_name': 'Xbox Live Auth Manager', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,410 | SERVICE ENUMERATED | {'name': 'XblGameSave', 'display_name': 'Xbox Live Game Save', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,413 | SERVICE ENUMERATED | {'name': 'XboxGipSvc', 'display_name': 'Xbox Accessory Management Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,417 | SERVICE ENUMERATED | {'name': 'XboxNetApiSvc', 'display_name': 'Xbox Live Networking Service', 'path': 'C:\\Windows\\system32\\svchost.exe -k netsvcs -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,420 | SERVICE ENUMERATED | {'name': 'AarSvc_50966', 'display_name': 'Agent Activation Runtime_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k AarSvcGroup -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,423 | SERVICE ENUMERATED | {'name': 'BcastDVRUserService_50966', 'display_name': 'GameDVR and Broadcast User Service_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k BcastDVRUserService', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,427 | SERVICE ENUMERATED | {'name': 'BluetoothUserService_50966', 'display_name': 'Bluetooth User Support Service_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k BthAppGroup -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,430 | SERVICE ENUMERATED | {'name': 'CaptureService_50966', 'display_name': 'CaptureService_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k LocalService -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,433 | SERVICE ENUMERATED | {'name': 'cbdhsvc_50966', 'display_name': 'Clipboard User Service_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k ClipboardSvcGroup -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,436 | SERVICE ENUMERATED | {'name': 'CDPUserSvc_50966', 'display_name': 'Connected Devices Platform User Service_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,439 | SERVICE ENUMERATED | {'name': 'ConsentUxUserSvc_50966', 'display_name': 'ConsentUX_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k DevicesFlow', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,443 | SERVICE ENUMERATED | {'name': 'CredentialEnrollmentManagerUserSvc_50966', 'display_name': 'CredentialEnrollmentManagerUserSvc_50966', 'path': 'C:\\Windows\\system32\\CredentialEnrollmentManager.exe', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,446 | SERVICE ENUMERATED | {'name': 'DeviceAssociationBrokerSvc_50966', 'display_name': 'DeviceAssociationBroker_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k DevicesFlow -p', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,449 | SERVICE ENUMERATED | {'name': 'DevicePickerUserSvc_50966', 'display_name': 'DevicePicker_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k DevicesFlow', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,452 | SERVICE ENUMERATED | {'name': 'DevicesFlowUserSvc_50966', 'display_name': 'DevicesFlow_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k DevicesFlow', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,456 | SERVICE ENUMERATED | {'name': 'MessagingService_50966', 'display_name': 'MessagingService_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,459 | SERVICE ENUMERATED | {'name': 'OneSyncSvc_50966', 'display_name': 'Sync Host_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Auto'}
+2026-02-01 21:48:23,462 | SERVICE ENUMERATED | {'name': 'PimIndexMaintenanceSvc_50966', 'display_name': 'Contact Data_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,465 | SERVICE ENUMERATED | {'name': 'PrintWorkflowUserSvc_50966', 'display_name': 'PrintWorkflow_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k PrintWorkflow', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,469 | SERVICE ENUMERATED | {'name': 'UdkUserSvc_50966', 'display_name': 'Udk User Service_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k UdkSvcGroup', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,472 | SERVICE ENUMERATED | {'name': 'UnistoreSvc_50966', 'display_name': 'User Data Storage_50966', 'path': 'C:\\Windows\\System32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,475 | SERVICE ENUMERATED | {'name': 'UserDataSvc_50966', 'display_name': 'User Data Access_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Manual'}
+2026-02-01 21:48:23,479 | SERVICE ENUMERATED | {'name': 'WpnUserService_50966', 'display_name': 'Windows Push Notifications User Service_50966', 'path': 'C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup', 'start_mode': 'Auto'}
