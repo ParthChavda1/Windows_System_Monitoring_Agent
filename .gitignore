@@ -2,5 +2,8 @@ venv/
 
 __pycache__/
 *.pyc
+src/__pycache__/
+*.pyc
+
 
 reports/final_report.txt
