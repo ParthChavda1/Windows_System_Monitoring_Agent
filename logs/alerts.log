@@ -1,2 +1,0 @@
-2026-02-02 11:31:27,183 | ALERT | {'timestamp': '2026-02-02T11:31:27.183598', 'type': 'Unknown Process', 'severity': 'LOW', 'details': 'Unknown process detected: memcompression | Path: memcompression'}
-2026-02-02 11:31:27,184 | ALERT | {'timestamp': '2026-02-02T11:31:27.184585', 'type': 'Suspicious Process Path', 'severity': 'HIGH', 'details': 'Process running from suspicious path: awscns.exe | Path: c:\\users\\parth\\appdata\\local\\nhnotifsys\\awsc\\awscns.exe'}

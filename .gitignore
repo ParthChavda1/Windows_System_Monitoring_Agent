@@ -3,9 +3,9 @@ venv/
 __pycache__/
 *.pyc
 
-
-reports/final_report.txt
-
 logs/activity.log
 
 logs/alerts.log
+
+reports/final_report.txt
+
