@@ -11,6 +11,10 @@ def load_list(file_path):
     with open(file_path, "r") as f:
         return {line.strip().lower() for line in f if line.strip()}
 
+def is_allowed_appdata_path(path):
+    allowed = load_list("config/allowed_appdata.txt")
+    return any(item in path for item in allowed)
+
 def is_trusted_path(path):
     return any(path.startswith(td) for td in TRUSTED_DIRECTORIES)
 
@@ -43,6 +47,8 @@ def detect_unauthorized_processes(processes):
 
         # 2️⃣ Suspicious path → HIGH
         if any(keyword in path for keyword in SUSPICIOUS_PATH_KEYWORDS):
+            if is_allowed_appdata_path(path):
+                continue
             raise_alert(
                 alert_type="Suspicious Process Path",
                 severity="HIGH",

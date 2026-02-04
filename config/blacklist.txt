@@ -1,3 +1,4 @@
 svch0st.exe
 lsasss.exe
 winlogin.exe
+eviltest.exe
